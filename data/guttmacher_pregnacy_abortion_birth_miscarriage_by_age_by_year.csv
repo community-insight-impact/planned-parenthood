@@ -1,0 +1,494 @@
+year,group,count,metrics
+1988,less than 15,500.0,pregnancies
+1992,less than 15,460.0,pregnancies
+1996,less than 15,400.0,pregnancies
+2000,less than 15,280.0,pregnancies
+2005,less than 15,240.0,pregnancies
+2006,less than 15,240.0,pregnancies
+2007,less than 15,220.0,pregnancies
+2008,less than 15,200.0,pregnancies
+2009,less than 15,140.0,pregnancies
+2010,less than 15,140.0,pregnancies
+2011,less than 15,140.0,pregnancies
+2012,less than 15,130.0,pregnancies
+2013,less than 15,90.0,pregnancies
+2014,less than 15,90.0,pregnancies
+2015,less than 15,80.0,pregnancies
+2016,less than 15,60.0,pregnancies
+2017,less than 15,60.0,pregnancies
+1988,15-17,6540.0,pregnancies
+1992,15-17,6230.0,pregnancies
+1996,15-17,5620.0,pregnancies
+2000,15-17,4730.0,pregnancies
+2005,15-17,3830.0,pregnancies
+2006,15-17,4270.0,pregnancies
+2007,15-17,4140.0,pregnancies
+2008,15-17,4010.0,pregnancies
+2009,15-17,3560.0,pregnancies
+2010,15-17,3040.0,pregnancies
+2011,15-17,2800.0,pregnancies
+2012,15-17,2430.0,pregnancies
+2013,15-17,2120.0,pregnancies
+2014,15-17,1920.0,pregnancies
+2015,15-17,1730.0,pregnancies
+2016,15-17,1630.0,pregnancies
+2017,15-17,1510.0,pregnancies
+1988,18-19,11900.0,pregnancies
+1992,18-19,10960.0,pregnancies
+1996,18-19,9990.0,pregnancies
+2000,18-19,10230.0,pregnancies
+2005,18-19,9030.0,pregnancies
+2006,18-19,9440.0,pregnancies
+2007,18-19,9750.0,pregnancies
+2008,18-19,9610.0,pregnancies
+2009,18-19,8990.0,pregnancies
+2010,18-19,8160.0,pregnancies
+2011,18-19,7360.0,pregnancies
+2012,18-19,6790.0,pregnancies
+2013,18-19,6240.0,pregnancies
+2014,18-19,5460.0,pregnancies
+2015,18-19,5150.0,pregnancies
+2016,18-19,4880.0,pregnancies
+2017,18-19,4760.0,pregnancies
+1988,15-19,18440.0,pregnancies
+1992,15-19,17190.0,pregnancies
+1996,15-19,15610.0,pregnancies
+2000,15-19,14960.0,pregnancies
+2005,15-19,12860.0,pregnancies
+2006,15-19,13710.0,pregnancies
+2007,15-19,13890.0,pregnancies
+2008,15-19,13610.0,pregnancies
+2009,15-19,12560.0,pregnancies
+2010,15-19,11200.0,pregnancies
+2011,15-19,10150.0,pregnancies
+2012,15-19,9220.0,pregnancies
+2013,15-19,8360.0,pregnancies
+2014,15-19,7390.0,pregnancies
+2015,15-19,6870.0,pregnancies
+2016,15-19,6500.0,pregnancies
+2017,15-19,6280.0,pregnancies
+1988,less than 20,18940.0,pregnancies
+1992,less than 20,17640.0,pregnancies
+1996,less than 20,16010.0,pregnancies
+2000,less than 20,15240.0,pregnancies
+2005,less than 20,13100.0,pregnancies
+2006,less than 20,13950.0,pregnancies
+2007,less than 20,14110.0,pregnancies
+2008,less than 20,13820.0,pregnancies
+2009,less than 20,12690.0,pregnancies
+2010,less than 20,11330.0,pregnancies
+2011,less than 20,10290.0,pregnancies
+2012,less than 20,9350.0,pregnancies
+2013,less than 20,8460.0,pregnancies
+2014,less than 20,7480.0,pregnancies
+2015,less than 20,6960.0,pregnancies
+2016,less than 20,6570.0,pregnancies
+2017,less than 20,6340.0,pregnancies
+1988,total,118120.0,pregnancies
+1992,total,113420.0,pregnancies
+1996,total,106250.0,pregnancies
+2000,total,110910.0,pregnancies
+2005,total,110730.0,pregnancies
+2006,total,114240.0,pregnancies
+2007,total,115090.0,pregnancies
+2008,total,113840.0,pregnancies
+2009,total,109590.0,pregnancies
+2010,total,105230.0,pregnancies
+2011,total,104000.0,pregnancies
+2012,total,102720.0,pregnancies
+2013,total,102030.0,pregnancies
+2014,total,100530.0,pregnancies
+2015,total,100680.0,pregnancies
+2016,total,100750.0,pregnancies
+2017,total,98310.0,pregnancies
+1988,less than 15,270.0,abortions
+1992,less than 15,190.0,abortions
+1996,less than 15,160.0,abortions
+2000,less than 15,110.0,abortions
+2005,less than 15,100.0,abortions
+2006,less than 15,100.0,abortions
+2007,less than 15,80.0,abortions
+2008,less than 15,90.0,abortions
+2009,less than 15,40.0,abortions
+2010,less than 15,40.0,abortions
+2011,less than 15,60.0,abortions
+2012,less than 15,50.0,abortions
+2013,less than 15,40.0,abortions
+2014,less than 15,30.0,abortions
+2015,less than 15,30.0,abortions
+2016,less than 15,20.0,abortions
+2017,less than 15,30.0,abortions
+1988,15-17,1910.0,abortions
+1992,15-17,1350.0,abortions
+1996,15-17,1140.0,abortions
+2000,15-17,810.0,abortions
+2005,15-17,690.0,abortions
+2006,15-17,790.0,abortions
+2007,15-17,830.0,abortions
+2008,15-17,730.0,abortions
+2009,15-17,650.0,abortions
+2010,15-17,530.0,abortions
+2011,15-17,500.0,abortions
+2012,15-17,450.0,abortions
+2013,15-17,340.0,abortions
+2014,15-17,270.0,abortions
+2015,15-17,250.0,abortions
+2016,15-17,280.0,abortions
+2017,15-17,280.0,abortions
+1988,18-19,3630.0,abortions
+1992,18-19,2430.0,abortions
+1996,18-19,1860.0,abortions
+2000,18-19,2050.0,abortions
+2005,18-19,1600.0,abortions
+2006,18-19,1660.0,abortions
+2007,18-19,1710.0,abortions
+2008,18-19,1650.0,abortions
+2009,18-19,1490.0,abortions
+2010,18-19,1280.0,abortions
+2011,18-19,1150.0,abortions
+2012,18-19,1040.0,abortions
+2013,18-19,930.0,abortions
+2014,18-19,740.0,abortions
+2015,18-19,720.0,abortions
+2016,18-19,720.0,abortions
+2017,18-19,730.0,abortions
+1988,15-19,5540.0,abortions
+1992,15-19,3780.0,abortions
+1996,15-19,3000.0,abortions
+2000,15-19,2850.0,abortions
+2005,15-19,2300.0,abortions
+2006,15-19,2450.0,abortions
+2007,15-19,2540.0,abortions
+2008,15-19,2380.0,abortions
+2009,15-19,2140.0,abortions
+2010,15-19,1810.0,abortions
+2011,15-19,1660.0,abortions
+2012,15-19,1490.0,abortions
+2013,15-19,1260.0,abortions
+2014,15-19,1010.0,abortions
+2015,15-19,970.0,abortions
+2016,15-19,1000.0,abortions
+2017,15-19,1010.0,abortions
+1988,less than 20,5810.0,abortions
+1992,less than 20,3970.0,abortions
+1996,less than 20,3160.0,abortions
+2000,less than 20,2960.0,abortions
+2005,less than 20,2400.0,abortions
+2006,less than 20,2550.0,abortions
+2007,less than 20,2620.0,abortions
+2008,less than 20,2470.0,abortions
+2009,less than 20,2190.0,abortions
+2010,less than 20,1860.0,abortions
+2011,less than 20,1720.0,abortions
+2012,less than 20,1540.0,abortions
+2013,less than 20,1300.0,abortions
+2014,less than 20,1030.0,abortions
+2015,less than 20,1000.0,abortions
+2016,less than 20,1020.0,abortions
+2017,less than 20,1050.0,abortions
+1988,total,23940.0,abortions
+1992,total,19870.0,abortions
+1996,total,16050.0,abortions
+2000,total,17410.0,abortions
+2005,total,14900.0,abortions
+2006,total,15070.0,abortions
+2007,total,15250.0,abortions
+2008,total,15160.0,abortions
+2009,total,13550.0,abortions
+2010,total,11930.0,abortions
+2011,total,11510.0,abortions
+2012,total,11080.0,abortions
+2013,total,10610.0,abortions
+2014,total,9180.0,abortions
+2015,total,9640.0,abortions
+2016,total,10100.0,abortions
+2017,total,9690.0,abortions
+1988,less than 15,172.0,births
+1992,less than 15,206.0,births
+1996,less than 15,181.0,births
+2000,less than 15,134.0,births
+2005,less than 15,106.0,births
+2006,less than 15,107.0,births
+2007,less than 15,107.0,births
+2008,less than 15,92.0,births
+2009,less than 15,74.0,births
+2010,less than 15,75.0,births
+2011,less than 15,61.0,births
+2012,less than 15,69.0,births
+2013,less than 15,43.0,births
+2014,less than 15,51.0,births
+2015,less than 15,43.0,births
+2016,less than 15,35.0,births
+2017,less than 15,21.0,births
+1988,15-17,3695.0,births
+1992,15-17,3947.0,births
+1996,15-17,3638.0,births
+2000,15-17,3202.0,births
+2005,15-17,2558.0,births
+2006,15-17,2831.0,births
+2007,15-17,2688.0,births
+2008,15-17,2666.0,births
+2009,15-17,2371.0,births
+2010,15-17,2048.0,births
+2011,15-17,1871.0,births
+2012,15-17,1613.0,births
+2013,15-17,1459.0,births
+2014,15-17,1356.0,births
+2015,15-17,1207.0,births
+2016,15-17,1101.0,births
+2017,15-17,999.0,births
+1988,18-19,6589.0,births
+1992,18-19,6910.0,births
+1996,18-19,6624.0,births
+2000,18-19,6650.0,births
+2005,18-19,6053.0,births
+2006,18-19,6352.0,births
+2007,18-19,6556.0,births
+2008,18-19,6494.0,births
+2009,18-19,6128.0,births
+2010,18-19,5621.0,births
+2011,18-19,5073.0,births
+2012,18-19,4704.0,births
+2013,18-19,4355.0,births
+2014,18-19,3876.0,births
+2015,18-19,3631.0,births
+2016,18-19,3404.0,births
+2017,18-19,3302.0,births
+1988,15-19,10284.0,births
+1992,15-19,10857.0,births
+1996,15-19,10262.0,births
+2000,15-19,9852.0,births
+2005,15-19,8611.0,births
+2006,15-19,9183.0,births
+2007,15-19,9244.0,births
+2008,15-19,9160.0,births
+2009,15-19,8499.0,births
+2010,15-19,7669.0,births
+2011,15-19,6944.0,births
+2012,15-19,6317.0,births
+2013,15-19,5814.0,births
+2014,15-19,5232.0,births
+2015,15-19,4838.0,births
+2016,15-19,4505.0,births
+2017,15-19,4301.0,births
+1988,less than 20,10456.0,births
+1992,less than 20,11063.0,births
+1996,less than 20,10443.0,births
+2000,less than 20,9986.0,births
+2005,less than 20,8717.0,births
+2006,less than 20,9290.0,births
+2007,less than 20,9351.0,births
+2008,less than 20,9252.0,births
+2009,less than 20,8573.0,births
+2010,less than 20,7744.0,births
+2011,less than 20,7005.0,births
+2012,less than 20,6386.0,births
+2013,less than 20,5857.0,births
+2014,less than 20,5283.0,births
+2015,less than 20,4881.0,births
+2016,less than 20,4540.0,births
+2017,less than 20,4322.0,births
+1988,total,76492.0,births
+1992,total,76301.0,births
+1996,total,73832.0,births
+2000,total,76463.0,births
+2005,total,78618.0,births
+2006,total,81385.0,births
+2007,total,81930.0,births
+2008,total,80963.0,births
+2009,total,78905.0,births
+2010,total,76759.0,births
+2011,total,76117.0,births
+2012,total,75446.0,births
+2013,total,75296.0,births
+2014,total,75360.0,births
+2015,total,75061.0,births
+2016,total,74705.0,births
+2017,total,73034.0,births
+1988,less than 15,60.0,miscarriages
+1992,less than 15,60.0,miscarriages
+1996,less than 15,50.0,miscarriages
+2000,less than 15,40.0,miscarriages
+2005,less than 15,30.0,miscarriages
+2006,less than 15,30.0,miscarriages
+2007,less than 15,30.0,miscarriages
+2008,less than 15,30.0,miscarriages
+2009,less than 15,20.0,miscarriages
+2010,less than 15,20.0,miscarriages
+2011,less than 15,20.0,miscarriages
+2012,less than 15,20.0,miscarriages
+2013,less than 15,10.0,miscarriages
+2014,less than 15,10.0,miscarriages
+2015,less than 15,10.0,miscarriages
+2016,less than 15,,miscarriages
+2017,less than 15,,miscarriages
+1988,15-17,930.0,miscarriages
+1992,15-17,920.0,miscarriages
+1996,15-17,840.0,miscarriages
+2000,15-17,720.0,miscarriages
+2005,15-17,580.0,miscarriages
+2006,15-17,650.0,miscarriages
+2007,15-17,620.0,miscarriages
+2008,15-17,610.0,miscarriages
+2009,15-17,540.0,miscarriages
+2010,15-17,460.0,miscarriages
+2011,15-17,420.0,miscarriages
+2012,15-17,370.0,miscarriages
+2013,15-17,330.0,miscarriages
+2014,15-17,300.0,miscarriages
+2015,15-17,270.0,miscarriages
+2016,15-17,250.0,miscarriages
+2017,15-17,230.0,miscarriages
+1988,18-19,1680.0,miscarriages
+1992,18-19,1620.0,miscarriages
+1996,18-19,1510.0,miscarriages
+2000,18-19,1530.0,miscarriages
+2005,18-19,1370.0,miscarriages
+2006,18-19,1440.0,miscarriages
+2007,18-19,1480.0,miscarriages
+2008,18-19,1460.0,miscarriages
+2009,18-19,1370.0,miscarriages
+2010,18-19,1250.0,miscarriages
+2011,18-19,1130.0,miscarriages
+2012,18-19,1040.0,miscarriages
+2013,18-19,960.0,miscarriages
+2014,18-19,850.0,miscarriages
+2015,18-19,800.0,miscarriages
+2016,18-19,750.0,miscarriages
+2017,18-19,730.0,miscarriages
+1988,15-19,2610.0,miscarriages
+1992,15-19,2550.0,miscarriages
+1996,15-19,2350.0,miscarriages
+2000,15-19,2260.0,miscarriages
+2005,15-19,1950.0,miscarriages
+2006,15-19,2080.0,miscarriages
+2007,15-19,2100.0,miscarriages
+2008,15-19,2070.0,miscarriages
+2009,15-19,1910.0,miscarriages
+2010,15-19,1710.0,miscarriages
+2011,15-19,1550.0,miscarriages
+2012,15-19,1410.0,miscarriages
+2013,15-19,1290.0,miscarriages
+2014,15-19,1150.0,miscarriages
+2015,15-19,1060.0,miscarriages
+2016,15-19,1000.0,miscarriages
+2017,15-19,960.0,miscarriages
+1988,less than 20,2670.0,miscarriages
+1992,less than 20,2610.0,miscarriages
+1996,less than 20,2400.0,miscarriages
+2000,less than 20,2290.0,miscarriages
+2005,less than 20,1980.0,miscarriages
+2006,less than 20,2110.0,miscarriages
+2007,less than 20,2130.0,miscarriages
+2008,less than 20,2100.0,miscarriages
+2009,less than 20,1930.0,miscarriages
+2010,less than 20,1730.0,miscarriages
+2011,less than 20,1570.0,miscarriages
+2012,less than 20,1430.0,miscarriages
+2013,less than 20,1300.0,miscarriages
+2014,less than 20,1160.0,miscarriages
+2015,less than 20,1080.0,miscarriages
+2016,less than 20,1010.0,miscarriages
+2017,less than 20,970.0,miscarriages
+1988,total,17690.0,miscarriages
+1992,total,17250.0,miscarriages
+1996,total,16370.0,miscarriages
+2000,total,17030.0,miscarriages
+2005,total,17210.0,miscarriages
+2006,total,17780.0,miscarriages
+2007,total,17910.0,miscarriages
+2008,total,17710.0,miscarriages
+2009,total,17140.0,miscarriages
+2010,total,16540.0,miscarriages
+2011,total,16370.0,miscarriages
+2012,total,16200.0,miscarriages
+2013,total,16120.0,miscarriages
+2014,total,15990.0,miscarriages
+2015,total,15980.0,miscarriages
+2016,total,15950.0,miscarriages
+2017,total,15580.0,miscarriages
+1988,less than 15,32736.0,population
+1992,less than 15,35376.0,population
+1996,less than 15,39776.0,population
+2000,less than 15,40364.0,population
+2005,less than 15,41846.0,population
+2006,less than 15,41309.0,population
+2007,less than 15,40513.0,population
+2008,less than 15,39511.0,population
+2009,less than 15,38685.0,population
+2010,less than 15,38787.0,population
+2011,less than 15,38551.0,population
+2012,less than 15,38686.0,population
+2013,less than 15,38574.0,population
+2014,less than 15,39144.0,population
+2015,less than 15,38742.0,population
+2016,less than 15,37460.0,population
+2017,less than 15,37743.0,population
+1988,15-17,107543.0,population
+1992,15-17,103071.0,population
+1996,15-17,117469.0,population
+2000,15-17,120407.0,population
+2005,15-17,124172.0,population
+2006,15-17,125996.0,population
+2007,15-17,126759.0,population
+2008,15-17,124877.0,population
+2009,15-17,122485.0,population
+2010,15-17,120102.0,population
+2011,15-17,118009.0,population
+2012,15-17,116330.0,population
+2013,15-17,115591.0,population
+2014,15-17,115510.0,population
+2015,15-17,116448.0,population
+2016,15-17,116697.0,population
+2017,15-17,115545.0,population
+1988,18-19,77868.0,population
+1992,18-19,69105.0,population
+1996,18-19,75388.0,population
+2000,18-19,82604.0,population
+2005,18-19,82362.0,population
+2006,18-19,82457.0,population
+2007,18-19,83182.0,population
+2008,18-19,85614.0,population
+2009,18-19,86993.0,population
+2010,18-19,85782.0,population
+2011,18-19,82972.0,population
+2012,18-19,79869.0,population
+2013,18-19,77970.0,population
+2014,18-19,76447.0,population
+2015,18-19,75895.0,population
+2016,18-19,75656.0,population
+2017,18-19,75713.0,population
+1988,15-19,185411.0,population
+1992,15-19,172176.0,population
+1996,15-19,192857.0,population
+2000,15-19,203011.0,population
+2005,15-19,206534.0,population
+2006,15-19,208453.0,population
+2007,15-19,209941.0,population
+2008,15-19,210491.0,population
+2009,15-19,209478.0,population
+2010,15-19,205884.0,population
+2011,15-19,200981.0,population
+2012,15-19,196199.0,population
+2013,15-19,193561.0,population
+2014,15-19,191957.0,population
+2015,15-19,192343.0,population
+2016,15-19,192353.0,population
+2017,15-19,191258.0,population
+1988,less than 20,185411.0,population
+1992,less than 20,172176.0,population
+1996,less than 20,192857.0,population
+2000,less than 20,203011.0,population
+2005,less than 20,206534.0,population
+2006,less than 20,208453.0,population
+2007,less than 20,209941.0,population
+2008,less than 20,210491.0,population
+2009,less than 20,209478.0,population
+2010,less than 20,205884.0,population
+2011,less than 20,200981.0,population
+2012,less than 20,196199.0,population
+2013,less than 20,193561.0,population
+2014,less than 20,191957.0,population
+2015,less than 20,192343.0,population
+2016,less than 20,192353.0,population
+2017,less than 20,191258.0,population
