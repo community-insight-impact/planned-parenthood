@@ -1,0 +1,1057 @@
+STD,Age,State,Rate
+Chlamydia,0-14 years,Alabama (01),0.41
+Chlamydia,0-14 years,Alaska (02),0.26
+Chlamydia,0-14 years,Arizona (04),0.2
+Chlamydia,0-14 years,Arkansas (05),0.32
+Chlamydia,0-14 years,California (06),0.18
+Chlamydia,0-14 years,Colorado (08),0.21
+Chlamydia,0-14 years,Connecticut (09),0.23
+Chlamydia,0-14 years,Delaware (10),0.33
+Chlamydia,0-14 years,District of Columbia (11),1.29
+Chlamydia,0-14 years,Florida (12),0.22
+Chlamydia,0-14 years,Georgia (13),0.34
+Chlamydia,0-14 years,Hawaii (15),0.18
+Chlamydia,0-14 years,Idaho (16),0.11
+Chlamydia,0-14 years,Illinois (17),0.25
+Chlamydia,0-14 years,Indiana (18),0.24
+Chlamydia,0-14 years,Iowa (19),0.16
+Chlamydia,0-14 years,Kansas (20),0.16
+Chlamydia,0-14 years,Kentucky (21),0.2
+Chlamydia,0-14 years,Louisiana (22),0.48
+Chlamydia,0-14 years,Maine (23),0.09
+Chlamydia,0-14 years,Maryland (24),0.43
+Chlamydia,0-14 years,Massachusetts (25),0.13
+Chlamydia,0-14 years,Michigan (26),0.32
+Chlamydia,0-14 years,Minnesota (27),0.14
+Chlamydia,0-14 years,Mississippi (28),0.6
+Chlamydia,0-14 years,Missouri (29),0.32
+Chlamydia,0-14 years,Montana (30),0.23
+Chlamydia,0-14 years,Nebraska (31),0.19
+Chlamydia,0-14 years,Nevada (32),0.2
+Chlamydia,0-14 years,New Hampshire (33),0.05
+Chlamydia,0-14 years,New Jersey (34),0.17
+Chlamydia,0-14 years,New Mexico (35),0.24
+Chlamydia,0-14 years,New York (36),0.29
+Chlamydia,0-14 years,North Carolina (37),0.28
+Chlamydia,0-14 years,North Dakota (38),0.12
+Chlamydia,0-14 years,Ohio (39),0.35
+Chlamydia,0-14 years,Oklahoma (40),0.25
+Chlamydia,0-14 years,Oregon (41),0.17
+Chlamydia,0-14 years,Pennsylvania (42),0.36
+Chlamydia,0-14 years,Rhode Island (44),0.21
+Chlamydia,0-14 years,South Carolina (45),0.38
+Chlamydia,0-14 years,South Dakota (46),0.22
+Chlamydia,0-14 years,Tennessee (47),0.34
+Chlamydia,0-14 years,Texas (48),0.26
+Chlamydia,0-14 years,Utah (49),0.08
+Chlamydia,0-14 years,Vermont (50),0.07
+Chlamydia,0-14 years,Virginia (51),0.21
+Chlamydia,0-14 years,Washington (53),0.2
+Chlamydia,0-14 years,West Virginia (54),0.12
+Chlamydia,0-14 years,Wisconsin (55),0.29
+Chlamydia,0-14 years,Wyoming (56),0.13
+Chlamydia,15-19 years,Alabama (01),22.25
+Chlamydia,15-19 years,Alaska (02),22.96
+Chlamydia,15-19 years,Arizona (04),15.59
+Chlamydia,15-19 years,Arkansas (05),18.86
+Chlamydia,15-19 years,California (06),13.58
+Chlamydia,15-19 years,Colorado (08),14.81
+Chlamydia,15-19 years,Connecticut (09),14.41
+Chlamydia,15-19 years,Delaware (10),20.81
+Chlamydia,15-19 years,District of Columbia (11),46.98
+Chlamydia,15-19 years,Florida (12),15.76
+Chlamydia,15-19 years,Georgia (13),20.42
+Chlamydia,15-19 years,Hawaii (15),13.91
+Chlamydia,15-19 years,Idaho (16),9.52
+Chlamydia,15-19 years,Illinois (17),19.24
+Chlamydia,15-19 years,Indiana (18),15.02
+Chlamydia,15-19 years,Iowa (19),12.2
+Chlamydia,15-19 years,Kansas (20),13.5
+Chlamydia,15-19 years,Kentucky (21),13.37
+Chlamydia,15-19 years,Louisiana (22),23.11
+Chlamydia,15-19 years,Maine (23),7.95
+Chlamydia,15-19 years,Maryland (24),20.23
+Chlamydia,15-19 years,Massachusetts (25),9.97
+Chlamydia,15-19 years,Michigan (26),19.12
+Chlamydia,15-19 years,Minnesota (27),10.34
+Chlamydia,15-19 years,Mississippi (28),28.28
+Chlamydia,15-19 years,Missouri (29),18.79
+Chlamydia,15-19 years,Montana (30),13.01
+Chlamydia,15-19 years,Nebraska (31),12.11
+Chlamydia,15-19 years,Nevada (32),15.67
+Chlamydia,15-19 years,New Hampshire (33),6.79
+Chlamydia,15-19 years,New Jersey (34),11.19
+Chlamydia,15-19 years,New Mexico (35),18.17
+Chlamydia,15-19 years,New York (36),17.89
+Chlamydia,15-19 years,North Carolina (37),19.48
+Chlamydia,15-19 years,North Dakota (38),10.02
+Chlamydia,15-19 years,Ohio (39),19.39
+Chlamydia,15-19 years,Oklahoma (40),17.69
+Chlamydia,15-19 years,Oregon (41),12.32
+Chlamydia,15-19 years,Pennsylvania (42),16.54
+Chlamydia,15-19 years,Rhode Island (44),13.86
+Chlamydia,15-19 years,South Carolina (45),24.4
+Chlamydia,15-19 years,South Dakota (46),14.57
+Chlamydia,15-19 years,Tennessee (47),20.42
+Chlamydia,15-19 years,Texas (48),17.09
+Chlamydia,15-19 years,Utah (49),6.63
+Chlamydia,15-19 years,Vermont (50),7.64
+Chlamydia,15-19 years,Virginia (51),15.52
+Chlamydia,15-19 years,Washington (53),12.44
+Chlamydia,15-19 years,West Virginia (54),9.49
+Chlamydia,15-19 years,Wisconsin (55),16.19
+Chlamydia,15-19 years,Wyoming (56),11.35
+Chlamydia,20-24 years,Alabama (01),23.15
+Chlamydia,20-24 years,Alaska (02),30.3
+Chlamydia,20-24 years,Arizona (04),18.17
+Chlamydia,20-24 years,Arkansas (05),19.12
+Chlamydia,20-24 years,California (06),17.31
+Chlamydia,20-24 years,Colorado (08),17.49
+Chlamydia,20-24 years,Connecticut (09),17.53
+Chlamydia,20-24 years,Delaware (10),20.68
+Chlamydia,20-24 years,District of Columbia (11),26.91
+Chlamydia,20-24 years,Florida (12),17.92
+Chlamydia,20-24 years,Georgia (13),20.91
+Chlamydia,20-24 years,Hawaii (15),20.76
+Chlamydia,20-24 years,Idaho (16),12.35
+Chlamydia,20-24 years,Illinois (17),20.87
+Chlamydia,20-24 years,Indiana (18),16.26
+Chlamydia,20-24 years,Iowa (19),14.8
+Chlamydia,20-24 years,Kansas (20),15.69
+Chlamydia,20-24 years,Kentucky (21),14.06
+Chlamydia,20-24 years,Louisiana (22),23.47
+Chlamydia,20-24 years,Maine (23),11.09
+Chlamydia,20-24 years,Maryland (24),19.19
+Chlamydia,20-24 years,Massachusetts (25),12.99
+Chlamydia,20-24 years,Michigan (26),18.97
+Chlamydia,20-24 years,Minnesota (27),13.43
+Chlamydia,20-24 years,Mississippi (28),28.18
+Chlamydia,20-24 years,Missouri (29),19.07
+Chlamydia,20-24 years,Montana (30),14.99
+Chlamydia,20-24 years,Nebraska (31),14.67
+Chlamydia,20-24 years,Nevada (32),17.2
+Chlamydia,20-24 years,New Hampshire (33),10.08
+Chlamydia,20-24 years,New Jersey (34),13.71
+Chlamydia,20-24 years,New Mexico (35),22.04
+Chlamydia,20-24 years,New York (36),18.75
+Chlamydia,20-24 years,North Carolina (37),20.19
+Chlamydia,20-24 years,North Dakota (38),14.17
+Chlamydia,20-24 years,Ohio (39),19.19
+Chlamydia,20-24 years,Oklahoma (40),18.38
+Chlamydia,20-24 years,Oregon (41),14.5
+Chlamydia,20-24 years,Pennsylvania (42),16.26
+Chlamydia,20-24 years,Rhode Island (44),15.76
+Chlamydia,20-24 years,South Carolina (45),24.95
+Chlamydia,20-24 years,South Dakota (46),17.74
+Chlamydia,20-24 years,Tennessee (47),20.41
+Chlamydia,20-24 years,Texas (48),18.67
+Chlamydia,20-24 years,Utah (49),7.59
+Chlamydia,20-24 years,Vermont (50),10.47
+Chlamydia,20-24 years,Virginia (51),17.32
+Chlamydia,20-24 years,Washington (53),15.08
+Chlamydia,20-24 years,West Virginia (54),10.91
+Chlamydia,20-24 years,Wisconsin (55),18.33
+Chlamydia,20-24 years,Wyoming (56),13.83
+Chlamydia,25-29 years,Alabama (01),8.54
+Chlamydia,25-29 years,Alaska (02),13.96
+Chlamydia,25-29 years,Arizona (04),8.05
+Chlamydia,25-29 years,Arkansas (05),7.01
+Chlamydia,25-29 years,California (06),8.12
+Chlamydia,25-29 years,Colorado (08),7.09
+Chlamydia,25-29 years,Connecticut (09),7.6
+Chlamydia,25-29 years,Delaware (10),8.18
+Chlamydia,25-29 years,District of Columbia (11),9.7
+Chlamydia,25-29 years,Florida (12),7.31
+Chlamydia,25-29 years,Georgia (13),8.1
+Chlamydia,25-29 years,Hawaii (15),9.97
+Chlamydia,25-29 years,Idaho (16),4.91
+Chlamydia,25-29 years,Illinois (17),8.43
+Chlamydia,25-29 years,Indiana (18),6.62
+Chlamydia,25-29 years,Iowa (19),6.06
+Chlamydia,25-29 years,Kansas (20),6.15
+Chlamydia,25-29 years,Kentucky (21),5.2
+Chlamydia,25-29 years,Louisiana (22),9.24
+Chlamydia,25-29 years,Maine (23),4.5
+Chlamydia,25-29 years,Maryland (24),7.25
+Chlamydia,25-29 years,Massachusetts (25),5.46
+Chlamydia,25-29 years,Michigan (26),7.59
+Chlamydia,25-29 years,Minnesota (27),5.73
+Chlamydia,25-29 years,Mississippi (28),11.21
+Chlamydia,25-29 years,Missouri (29),7.19
+Chlamydia,25-29 years,Montana (30),6.31
+Chlamydia,25-29 years,Nebraska (31),6.25
+Chlamydia,25-29 years,Nevada (32),6.87
+Chlamydia,25-29 years,New Hampshire (33),3.82
+Chlamydia,25-29 years,New Jersey (34),5.33
+Chlamydia,25-29 years,New Mexico (35),10.73
+Chlamydia,25-29 years,New York (36),8.68
+Chlamydia,25-29 years,North Carolina (37),7.36
+Chlamydia,25-29 years,North Dakota (38),6.41
+Chlamydia,25-29 years,Ohio (39),7.38
+Chlamydia,25-29 years,Oklahoma (40),7.01
+Chlamydia,25-29 years,Oregon (41),6.02
+Chlamydia,25-29 years,Pennsylvania (42),6.64
+Chlamydia,25-29 years,Rhode Island (44),7.06
+Chlamydia,25-29 years,South Carolina (45),9.7
+Chlamydia,25-29 years,South Dakota (46),8.08
+Chlamydia,25-29 years,Tennessee (47),7.64
+Chlamydia,25-29 years,Texas (48),7.56
+Chlamydia,25-29 years,Utah (49),3.83
+Chlamydia,25-29 years,Vermont (50),4.3
+Chlamydia,25-29 years,Virginia (51),6.66
+Chlamydia,25-29 years,Washington (53),6.36
+Chlamydia,25-29 years,West Virginia (54),3.72
+Chlamydia,25-29 years,Wisconsin (55),7.97
+Chlamydia,25-29 years,Wyoming (56),5.67
+Chlamydia,30-34 years,Alabama (01),3.28
+Chlamydia,30-34 years,Alaska (02),6.03
+Chlamydia,30-34 years,Arizona (04),3.71
+Chlamydia,30-34 years,Arkansas (05),2.67
+Chlamydia,30-34 years,California (06),3.73
+Chlamydia,30-34 years,Colorado (08),3.04
+Chlamydia,30-34 years,Connecticut (09),2.91
+Chlamydia,30-34 years,Delaware (10),3.24
+Chlamydia,30-34 years,District of Columbia (11),5.36
+Chlamydia,30-34 years,Florida (12),2.94
+Chlamydia,30-34 years,Georgia (13),3.23
+Chlamydia,30-34 years,Hawaii (15),4.58
+Chlamydia,30-34 years,Idaho (16),2.02
+Chlamydia,30-34 years,Illinois (17),3.46
+Chlamydia,30-34 years,Indiana (18),2.7
+Chlamydia,30-34 years,Iowa (19),2.4
+Chlamydia,30-34 years,Kansas (20),2.42
+Chlamydia,30-34 years,Kentucky (21),2.05
+Chlamydia,30-34 years,Louisiana (22),3.46
+Chlamydia,30-34 years,Maine (23),1.54
+Chlamydia,30-34 years,Maryland (24),2.85
+Chlamydia,30-34 years,Massachusetts (25),2.33
+Chlamydia,30-34 years,Michigan (26),3.03
+Chlamydia,30-34 years,Minnesota (27),2.33
+Chlamydia,30-34 years,Mississippi (28),4.02
+Chlamydia,30-34 years,Missouri (29),2.82
+Chlamydia,30-34 years,Montana (30),2.4
+Chlamydia,30-34 years,Nebraska (31),2.45
+Chlamydia,30-34 years,Nevada (32),3.04
+Chlamydia,30-34 years,New Hampshire (33),1.29
+Chlamydia,30-34 years,New Jersey (34),2.01
+Chlamydia,30-34 years,New Mexico (35),4.64
+Chlamydia,30-34 years,New York (36),4.07
+Chlamydia,30-34 years,North Carolina (37),2.92
+Chlamydia,30-34 years,North Dakota (38),2.46
+Chlamydia,30-34 years,Ohio (39),2.83
+Chlamydia,30-34 years,Oklahoma (40),2.72
+Chlamydia,30-34 years,Oregon (41),2.63
+Chlamydia,30-34 years,Pennsylvania (42),2.63
+Chlamydia,30-34 years,Rhode Island (44),2.96
+Chlamydia,30-34 years,South Carolina (45),3.8
+Chlamydia,30-34 years,South Dakota (46),3.23
+Chlamydia,30-34 years,Tennessee (47),3
+Chlamydia,30-34 years,Texas (48),3.16
+Chlamydia,30-34 years,Utah (49),1.99
+Chlamydia,30-34 years,Vermont (50),1.65
+Chlamydia,30-34 years,Virginia (51),2.53
+Chlamydia,30-34 years,Washington (53),2.74
+Chlamydia,30-34 years,West Virginia (54),1.32
+Chlamydia,30-34 years,Wisconsin (55),3.1
+Chlamydia,30-34 years,Wyoming (56),1.99
+Chlamydia,35-39 years,Alabama (01),1.25
+Chlamydia,35-39 years,Alaska (02),2.86
+Chlamydia,35-39 years,Arizona (04),1.82
+Chlamydia,35-39 years,Arkansas (05),1
+Chlamydia,35-39 years,California (06),1.95
+Chlamydia,35-39 years,Colorado (08),1.41
+Chlamydia,35-39 years,Connecticut (09),1.2
+Chlamydia,35-39 years,Delaware (10),1.42
+Chlamydia,35-39 years,District of Columbia (11),3.15
+Chlamydia,35-39 years,Florida (12),1.27
+Chlamydia,35-39 years,Georgia (13),1.45
+Chlamydia,35-39 years,Hawaii (15),2.33
+Chlamydia,35-39 years,Idaho (16),0.82
+Chlamydia,35-39 years,Illinois (17),1.58
+Chlamydia,35-39 years,Indiana (18),1.13
+Chlamydia,35-39 years,Iowa (19),0.95
+Chlamydia,35-39 years,Kansas (20),0.97
+Chlamydia,35-39 years,Kentucky (21),0.81
+Chlamydia,35-39 years,Louisiana (22),1.39
+Chlamydia,35-39 years,Maine (23),0.59
+Chlamydia,35-39 years,Maryland (24),1.3
+Chlamydia,35-39 years,Massachusetts (25),1.06
+Chlamydia,35-39 years,Michigan (26),1.31
+Chlamydia,35-39 years,Minnesota (27),1.06
+Chlamydia,35-39 years,Mississippi (28),1.63
+Chlamydia,35-39 years,Missouri (29),1.19
+Chlamydia,35-39 years,Montana (30),0.98
+Chlamydia,35-39 years,Nebraska (31),0.97
+Chlamydia,35-39 years,Nevada (32),1.48
+Chlamydia,35-39 years,New Hampshire (33),0.48
+Chlamydia,35-39 years,New Jersey (34),0.89
+Chlamydia,35-39 years,New Mexico (35),2.11
+Chlamydia,35-39 years,New York (36),2.05
+Chlamydia,35-39 years,North Carolina (37),1.24
+Chlamydia,35-39 years,North Dakota (38),0.92
+Chlamydia,35-39 years,Ohio (39),1.18
+Chlamydia,35-39 years,Oklahoma (40),1.08
+Chlamydia,35-39 years,Oregon (41),1.24
+Chlamydia,35-39 years,Pennsylvania (42),1.13
+Chlamydia,35-39 years,Rhode Island (44),1.29
+Chlamydia,35-39 years,South Carolina (45),1.53
+Chlamydia,35-39 years,South Dakota (46),1.17
+Chlamydia,35-39 years,Tennessee (47),1.3
+Chlamydia,35-39 years,Texas (48),1.41
+Chlamydia,35-39 years,Utah (49),0.99
+Chlamydia,35-39 years,Vermont (50),0.63
+Chlamydia,35-39 years,Virginia (51),1.06
+Chlamydia,35-39 years,Washington (53),1.34
+Chlamydia,35-39 years,West Virginia (54),0.51
+Chlamydia,35-39 years,Wisconsin (55),1.29
+Chlamydia,35-39 years,Wyoming (56),0.89
+Chlamydia,40+ years,Alabama (01),0.2
+Chlamydia,40+ years,Alaska (02),0.64
+Chlamydia,40+ years,Arizona (04),0.28
+Chlamydia,40+ years,Arkansas (05),0.12
+Chlamydia,40+ years,California (06),0.41
+Chlamydia,40+ years,Colorado (08),0.23
+Chlamydia,40+ years,Connecticut (09),0.18
+Chlamydia,40+ years,Delaware (10),0.19
+Chlamydia,40+ years,District of Columbia (11),0.81
+Chlamydia,40+ years,Florida (12),0.18
+Chlamydia,40+ years,Georgia (13),0.26
+Chlamydia,40+ years,Hawaii (15),0.37
+Chlamydia,40+ years,Idaho (16),0.11
+Chlamydia,40+ years,Illinois (17),0.25
+Chlamydia,40+ years,Indiana (18),0.15
+Chlamydia,40+ years,Iowa (19),0.1
+Chlamydia,40+ years,Kansas (20),0.11
+Chlamydia,40+ years,Kentucky (21),0.13
+Chlamydia,40+ years,Louisiana (22),0.2
+Chlamydia,40+ years,Maine (23),0.08
+Chlamydia,40+ years,Maryland (24),0.22
+Chlamydia,40+ years,Massachusetts (25),0.19
+Chlamydia,40+ years,Michigan (26),0.2
+Chlamydia,40+ years,Minnesota (27),0.16
+Chlamydia,40+ years,Mississippi (28),0.25
+Chlamydia,40+ years,Missouri (29),0.17
+Chlamydia,40+ years,Montana (30),0.12
+Chlamydia,40+ years,Nebraska (31),0.13
+Chlamydia,40+ years,Nevada (32),0.26
+Chlamydia,40+ years,New Hampshire (33),0.07
+Chlamydia,40+ years,New Jersey (34),0.15
+Chlamydia,40+ years,New Mexico (35),0.3
+Chlamydia,40+ years,New York (36),0.39
+Chlamydia,40+ years,North Carolina (37),0.18
+Chlamydia,40+ years,North Dakota (38),0.09
+Chlamydia,40+ years,Ohio (39),0.17
+Chlamydia,40+ years,Oklahoma (40),0.13
+Chlamydia,40+ years,Oregon (41),0.19
+Chlamydia,40+ years,Pennsylvania (42),0.16
+Chlamydia,40+ years,Rhode Island (44),0.18
+Chlamydia,40+ years,South Carolina (45),0.23
+Chlamydia,40+ years,South Dakota (46),0.13
+Chlamydia,40+ years,Tennessee (47),0.19
+Chlamydia,40+ years,Texas (48),0.23
+Chlamydia,40+ years,Utah (49),0.16
+Chlamydia,40+ years,Vermont (50),0.08
+Chlamydia,40+ years,Virginia (51),0.17
+Chlamydia,40+ years,Washington (53),0.23
+Chlamydia,40+ years,West Virginia (54),0.06
+Chlamydia,40+ years,Wisconsin (55),0.17
+Chlamydia,40+ years,Wyoming (56),0.09
+Gonorrhea,0-14 years,Alabama (01),0.17
+Gonorrhea,0-14 years,Alaska (02),0.03
+Gonorrhea,0-14 years,Arizona (04),0.04
+Gonorrhea,0-14 years,Arkansas (05),0.15
+Gonorrhea,0-14 years,California (06),0.04
+Gonorrhea,0-14 years,Colorado (08),0.03
+Gonorrhea,0-14 years,Connecticut (09),0.05
+Gonorrhea,0-14 years,Delaware (10),0.12
+Gonorrhea,0-14 years,District of Columbia (11),0.66
+Gonorrhea,0-14 years,Florida (12),0.09
+Gonorrhea,0-14 years,Georgia (13),0.14
+Gonorrhea,0-14 years,Hawaii (15),0.02
+Gonorrhea,0-14 years,Idaho (16),0
+Gonorrhea,0-14 years,Illinois (17),0.1
+Gonorrhea,0-14 years,Indiana (18),0.08
+Gonorrhea,0-14 years,Iowa (19),0.03
+Gonorrhea,0-14 years,Kansas (20),0.05
+Gonorrhea,0-14 years,Kentucky (21),0.06
+Gonorrhea,0-14 years,Louisiana (22),0.22
+Gonorrhea,0-14 years,Maine (23),0
+Gonorrhea,0-14 years,Maryland (24),0.15
+Gonorrhea,0-14 years,Massachusetts (25),0.02
+Gonorrhea,0-14 years,Michigan (26),0.12
+Gonorrhea,0-14 years,Minnesota (27),0.04
+Gonorrhea,0-14 years,Mississippi (28),0.26
+Gonorrhea,0-14 years,Missouri (29),0.12
+Gonorrhea,0-14 years,Montana (30),0.01
+Gonorrhea,0-14 years,Nebraska (31),0.05
+Gonorrhea,0-14 years,Nevada (32),0.06
+Gonorrhea,0-14 years,New Hampshire (33),0
+Gonorrhea,0-14 years,New Jersey (34),0.06
+Gonorrhea,0-14 years,New Mexico (35),0.03
+Gonorrhea,0-14 years,New York (36),0.07
+Gonorrhea,0-14 years,North Carolina (37),0.11
+Gonorrhea,0-14 years,North Dakota (38),0.01
+Gonorrhea,0-14 years,Ohio (39),0.13
+Gonorrhea,0-14 years,Oklahoma (40),0.08
+Gonorrhea,0-14 years,Oregon (41),0.01
+Gonorrhea,0-14 years,Pennsylvania (42),0.1
+Gonorrhea,0-14 years,Rhode Island (44),0.04
+Gonorrhea,0-14 years,South Carolina (45),0.15
+Gonorrhea,0-14 years,South Dakota (46),0.03
+Gonorrhea,0-14 years,Tennessee (47),0.12
+Gonorrhea,0-14 years,Texas (48),0.09
+Gonorrhea,0-14 years,Utah (49),0.01
+Gonorrhea,0-14 years,Vermont (50),0
+Gonorrhea,0-14 years,Virginia (51),0.07
+Gonorrhea,0-14 years,Washington (53),0.03
+Gonorrhea,0-14 years,West Virginia (54),0.03
+Gonorrhea,0-14 years,Wisconsin (55),0.11
+Gonorrhea,0-14 years,Wyoming (56),0
+Gonorrhea,15-19 years,Alabama (01),8.83
+Gonorrhea,15-19 years,Alaska (02),2.23
+Gonorrhea,15-19 years,Arizona (04),2.37
+Gonorrhea,15-19 years,Arkansas (05),6.69
+Gonorrhea,15-19 years,California (06),2.11
+Gonorrhea,15-19 years,Colorado (08),2.11
+Gonorrhea,15-19 years,Connecticut (09),2.93
+Gonorrhea,15-19 years,Delaware (10),6.51
+Gonorrhea,15-19 years,District of Columbia (11),21.64
+Gonorrhea,15-19 years,Florida (12),4.97
+Gonorrhea,15-19 years,Georgia (13),7.55
+Gonorrhea,15-19 years,Hawaii (15),1.36
+Gonorrhea,15-19 years,Idaho (16),0.3
+Gonorrhea,15-19 years,Illinois (17),6.52
+Gonorrhea,15-19 years,Indiana (18),4.37
+Gonorrhea,15-19 years,Iowa (19),2.08
+Gonorrhea,15-19 years,Kansas (20),3.23
+Gonorrhea,15-19 years,Kentucky (21),3.58
+Gonorrhea,15-19 years,Louisiana (22),9.56
+Gonorrhea,15-19 years,Maine (23),0.3
+Gonorrhea,15-19 years,Maryland (24),6.26
+Gonorrhea,15-19 years,Massachusetts (25),1.22
+Gonorrhea,15-19 years,Michigan (26),6.05
+Gonorrhea,15-19 years,Minnesota (27),2.13
+Gonorrhea,15-19 years,Mississippi (28),10.63
+Gonorrhea,15-19 years,Missouri (29),6
+Gonorrhea,15-19 years,Montana (30),0.43
+Gonorrhea,15-19 years,Nebraska (31),2.93
+Gonorrhea,15-19 years,Nevada (32),3.28
+Gonorrhea,15-19 years,New Hampshire (33),0.3
+Gonorrhea,15-19 years,New Jersey (34),3.36
+Gonorrhea,15-19 years,New Mexico (35),2.24
+Gonorrhea,15-19 years,New York (36),3.76
+Gonorrhea,15-19 years,North Carolina (37),7.06
+Gonorrhea,15-19 years,North Dakota (38),0.81
+Gonorrhea,15-19 years,Ohio (39),6.78
+Gonorrhea,15-19 years,Oklahoma (40),5.37
+Gonorrhea,15-19 years,Oregon (41),0.9
+Gonorrhea,15-19 years,Pennsylvania (42),4.18
+Gonorrhea,15-19 years,Rhode Island (44),1.84
+Gonorrhea,15-19 years,South Carolina (45),8.47
+Gonorrhea,15-19 years,South Dakota (46),1.58
+Gonorrhea,15-19 years,Tennessee (47),6.57
+Gonorrhea,15-19 years,Texas (48),5.02
+Gonorrhea,15-19 years,Utah (49),0.36
+Gonorrhea,15-19 years,Vermont (50),0.32
+Gonorrhea,15-19 years,Virginia (51),4.57
+Gonorrhea,15-19 years,Washington (53),1.26
+Gonorrhea,15-19 years,West Virginia (54),1.64
+Gonorrhea,15-19 years,Wisconsin (55),4.49
+Gonorrhea,15-19 years,Wyoming (56),0.39
+Gonorrhea,20-24 years,Alabama (01),10.6
+Gonorrhea,20-24 years,Alaska (02),3.9
+Gonorrhea,20-24 years,Arizona (04),3.31
+Gonorrhea,20-24 years,Arkansas (05),7.72
+Gonorrhea,20-24 years,California (06),2.89
+Gonorrhea,20-24 years,Colorado (08),2.8
+Gonorrhea,20-24 years,Connecticut (09),4
+Gonorrhea,20-24 years,Delaware (10),6.9
+Gonorrhea,20-24 years,District of Columbia (11),14.44
+Gonorrhea,20-24 years,Florida (12),6.02
+Gonorrhea,20-24 years,Georgia (13),8.57
+Gonorrhea,20-24 years,Hawaii (15),2.64
+Gonorrhea,20-24 years,Idaho (16),0.53
+Gonorrhea,20-24 years,Illinois (17),7.59
+Gonorrhea,20-24 years,Indiana (18),5.38
+Gonorrhea,20-24 years,Iowa (19),2.45
+Gonorrhea,20-24 years,Kansas (20),4.16
+Gonorrhea,20-24 years,Kentucky (21),4.36
+Gonorrhea,20-24 years,Louisiana (22),10.73
+Gonorrhea,20-24 years,Maine (23),0.61
+Gonorrhea,20-24 years,Maryland (24),6.93
+Gonorrhea,20-24 years,Massachusetts (25),1.8
+Gonorrhea,20-24 years,Michigan (26),6.9
+Gonorrhea,20-24 years,Minnesota (27),2.69
+Gonorrhea,20-24 years,Mississippi (28),11.82
+Gonorrhea,20-24 years,Missouri (29),6.81
+Gonorrhea,20-24 years,Montana (30),0.67
+Gonorrhea,20-24 years,Nebraska (31),3.55
+Gonorrhea,20-24 years,Nevada (32),3.71
+Gonorrhea,20-24 years,New Hampshire (33),0.56
+Gonorrhea,20-24 years,New Jersey (34),4.22
+Gonorrhea,20-24 years,New Mexico (35),3.35
+Gonorrhea,20-24 years,New York (36),4.35
+Gonorrhea,20-24 years,North Carolina (37),8.78
+Gonorrhea,20-24 years,North Dakota (38),1.14
+Gonorrhea,20-24 years,Ohio (39),7.57
+Gonorrhea,20-24 years,Oklahoma (40),6.24
+Gonorrhea,20-24 years,Oregon (41),1.37
+Gonorrhea,20-24 years,Pennsylvania (42),4.63
+Gonorrhea,20-24 years,Rhode Island (44),2.26
+Gonorrhea,20-24 years,South Carolina (45),10.24
+Gonorrhea,20-24 years,South Dakota (46),2.29
+Gonorrhea,20-24 years,Tennessee (47),7.32
+Gonorrhea,20-24 years,Texas (48),5.7
+Gonorrhea,20-24 years,Utah (49),0.64
+Gonorrhea,20-24 years,Vermont (50),0.54
+Gonorrhea,20-24 years,Virginia (51),5.4
+Gonorrhea,20-24 years,Washington (53),1.96
+Gonorrhea,20-24 years,West Virginia (54),2.39
+Gonorrhea,20-24 years,Wisconsin (55),4.53
+Gonorrhea,20-24 years,Wyoming (56),0.62
+Gonorrhea,25-29 years,Alabama (01),5.13
+Gonorrhea,25-29 years,Alaska (02),2.66
+Gonorrhea,25-29 years,Arizona (04),1.98
+Gonorrhea,25-29 years,Arkansas (05),3.63
+Gonorrhea,25-29 years,California (06),1.88
+Gonorrhea,25-29 years,Colorado (08),1.49
+Gonorrhea,25-29 years,Connecticut (09),2.31
+Gonorrhea,25-29 years,Delaware (10),3.64
+Gonorrhea,25-29 years,District of Columbia (11),7.05
+Gonorrhea,25-29 years,Florida (12),3.12
+Gonorrhea,25-29 years,Georgia (13),4.23
+Gonorrhea,25-29 years,Hawaii (15),1.56
+Gonorrhea,25-29 years,Idaho (16),0.33
+Gonorrhea,25-29 years,Illinois (17),3.66
+Gonorrhea,25-29 years,Indiana (18),2.85
+Gonorrhea,25-29 years,Iowa (19),1.46
+Gonorrhea,25-29 years,Kansas (20),2.2
+Gonorrhea,25-29 years,Kentucky (21),2.22
+Gonorrhea,25-29 years,Louisiana (22),5.15
+Gonorrhea,25-29 years,Maine (23),0.43
+Gonorrhea,25-29 years,Maryland (24),3.39
+Gonorrhea,25-29 years,Massachusetts (25),1.07
+Gonorrhea,25-29 years,Michigan (26),3.8
+Gonorrhea,25-29 years,Minnesota (27),1.51
+Gonorrhea,25-29 years,Mississippi (28),5.72
+Gonorrhea,25-29 years,Missouri (29),3.47
+Gonorrhea,25-29 years,Montana (30),0.38
+Gonorrhea,25-29 years,Nebraska (31),1.9
+Gonorrhea,25-29 years,Nevada (32),2.01
+Gonorrhea,25-29 years,New Hampshire (33),0.31
+Gonorrhea,25-29 years,New Jersey (34),2.09
+Gonorrhea,25-29 years,New Mexico (35),2
+Gonorrhea,25-29 years,New York (36),2.55
+Gonorrhea,25-29 years,North Carolina (37),4.43
+Gonorrhea,25-29 years,North Dakota (38),0.82
+Gonorrhea,25-29 years,Ohio (39),3.91
+Gonorrhea,25-29 years,Oklahoma (40),3.22
+Gonorrhea,25-29 years,Oregon (41),0.96
+Gonorrhea,25-29 years,Pennsylvania (42),2.54
+Gonorrhea,25-29 years,Rhode Island (44),1.34
+Gonorrhea,25-29 years,South Carolina (45),5.29
+Gonorrhea,25-29 years,South Dakota (46),1.49
+Gonorrhea,25-29 years,Tennessee (47),3.6
+Gonorrhea,25-29 years,Texas (48),2.77
+Gonorrhea,25-29 years,Utah (49),0.51
+Gonorrhea,25-29 years,Vermont (50),0.34
+Gonorrhea,25-29 years,Virginia (51),2.61
+Gonorrhea,25-29 years,Washington (53),1.29
+Gonorrhea,25-29 years,West Virginia (54),1.25
+Gonorrhea,25-29 years,Wisconsin (55),2.42
+Gonorrhea,25-29 years,Wyoming (56),0.38
+Gonorrhea,30-34 years,Alabama (01),2.56
+Gonorrhea,30-34 years,Alaska (02),1.62
+Gonorrhea,30-34 years,Arizona (04),1.23
+Gonorrhea,30-34 years,Arkansas (05),1.73
+Gonorrhea,30-34 years,California (06),1.2
+Gonorrhea,30-34 years,Colorado (08),0.86
+Gonorrhea,30-34 years,Connecticut (09),1.21
+Gonorrhea,30-34 years,Delaware (10),1.99
+Gonorrhea,30-34 years,District of Columbia (11),5.19
+Gonorrhea,30-34 years,Florida (12),1.68
+Gonorrhea,30-34 years,Georgia (13),2.21
+Gonorrhea,30-34 years,Hawaii (15),0.98
+Gonorrhea,30-34 years,Idaho (16),0.16
+Gonorrhea,30-34 years,Illinois (17),1.87
+Gonorrhea,30-34 years,Indiana (18),1.49
+Gonorrhea,30-34 years,Iowa (19),0.77
+Gonorrhea,30-34 years,Kansas (20),1.16
+Gonorrhea,30-34 years,Kentucky (21),1.18
+Gonorrhea,30-34 years,Louisiana (22),2.46
+Gonorrhea,30-34 years,Maine (23),0.24
+Gonorrhea,30-34 years,Maryland (24),1.8
+Gonorrhea,30-34 years,Massachusetts (25),0.66
+Gonorrhea,30-34 years,Michigan (26),1.97
+Gonorrhea,30-34 years,Minnesota (27),0.82
+Gonorrhea,30-34 years,Mississippi (28),2.69
+Gonorrhea,30-34 years,Missouri (29),1.85
+Gonorrhea,30-34 years,Montana (30),0.19
+Gonorrhea,30-34 years,Nebraska (31),0.96
+Gonorrhea,30-34 years,Nevada (32),1.27
+Gonorrhea,30-34 years,New Hampshire (33),0.16
+Gonorrhea,30-34 years,New Jersey (34),1.02
+Gonorrhea,30-34 years,New Mexico (35),1.1
+Gonorrhea,30-34 years,New York (36),1.51
+Gonorrhea,30-34 years,North Carolina (37),2.3
+Gonorrhea,30-34 years,North Dakota (38),0.39
+Gonorrhea,30-34 years,Ohio (39),2.02
+Gonorrhea,30-34 years,Oklahoma (40),1.66
+Gonorrhea,30-34 years,Oregon (41),0.62
+Gonorrhea,30-34 years,Pennsylvania (42),1.38
+Gonorrhea,30-34 years,Rhode Island (44),0.76
+Gonorrhea,30-34 years,South Carolina (45),2.76
+Gonorrhea,30-34 years,South Dakota (46),0.8
+Gonorrhea,30-34 years,Tennessee (47),1.9
+Gonorrhea,30-34 years,Texas (48),1.45
+Gonorrhea,30-34 years,Utah (49),0.36
+Gonorrhea,30-34 years,Vermont (50),0.18
+Gonorrhea,30-34 years,Virginia (51),1.32
+Gonorrhea,30-34 years,Washington (53),0.83
+Gonorrhea,30-34 years,West Virginia (54),0.64
+Gonorrhea,30-34 years,Wisconsin (55),1.24
+Gonorrhea,30-34 years,Wyoming (56),0.19
+Gonorrhea,35-39 years,Alabama (01),1.43
+Gonorrhea,35-39 years,Alaska (02),1.13
+Gonorrhea,35-39 years,Arizona (04),0.84
+Gonorrhea,35-39 years,Arkansas (05),0.96
+Gonorrhea,35-39 years,California (06),0.84
+Gonorrhea,35-39 years,Colorado (08),0.55
+Gonorrhea,35-39 years,Connecticut (09),0.71
+Gonorrhea,35-39 years,Delaware (10),1.16
+Gonorrhea,35-39 years,District of Columbia (11),4.33
+Gonorrhea,35-39 years,Florida (12),1.02
+Gonorrhea,35-39 years,Georgia (13),1.39
+Gonorrhea,35-39 years,Hawaii (15),0.63
+Gonorrhea,35-39 years,Idaho (16),0.1
+Gonorrhea,35-39 years,Illinois (17),1.14
+Gonorrhea,35-39 years,Indiana (18),0.84
+Gonorrhea,35-39 years,Iowa (19),0.42
+Gonorrhea,35-39 years,Kansas (20),0.63
+Gonorrhea,35-39 years,Kentucky (21),0.66
+Gonorrhea,35-39 years,Louisiana (22),1.38
+Gonorrhea,35-39 years,Maine (23),0.14
+Gonorrhea,35-39 years,Maryland (24),1.12
+Gonorrhea,35-39 years,Massachusetts (25),0.43
+Gonorrhea,35-39 years,Michigan (26),1.12
+Gonorrhea,35-39 years,Minnesota (27),0.49
+Gonorrhea,35-39 years,Mississippi (28),1.48
+Gonorrhea,35-39 years,Missouri (29),1.11
+Gonorrhea,35-39 years,Montana (30),0.12
+Gonorrhea,35-39 years,Nebraska (31),0.53
+Gonorrhea,35-39 years,Nevada (32),0.86
+Gonorrhea,35-39 years,New Hampshire (33),0.1
+Gonorrhea,35-39 years,New Jersey (34),0.59
+Gonorrhea,35-39 years,New Mexico (35),0.66
+Gonorrhea,35-39 years,New York (36),0.92
+Gonorrhea,35-39 years,North Carolina (37),1.33
+Gonorrhea,35-39 years,North Dakota (38),0.18
+Gonorrhea,35-39 years,Ohio (39),1.11
+Gonorrhea,35-39 years,Oklahoma (40),0.87
+Gonorrhea,35-39 years,Oregon (41),0.41
+Gonorrhea,35-39 years,Pennsylvania (42),0.8
+Gonorrhea,35-39 years,Rhode Island (44),0.44
+Gonorrhea,35-39 years,South Carolina (45),1.74
+Gonorrhea,35-39 years,South Dakota (46),0.34
+Gonorrhea,35-39 years,Tennessee (47),1.17
+Gonorrhea,35-39 years,Texas (48),0.86
+Gonorrhea,35-39 years,Utah (49),0.26
+Gonorrhea,35-39 years,Vermont (50),0.11
+Gonorrhea,35-39 years,Virginia (51),0.77
+Gonorrhea,35-39 years,Washington (53),0.56
+Gonorrhea,35-39 years,West Virginia (54),0.31
+Gonorrhea,35-39 years,Wisconsin (55),0.75
+Gonorrhea,35-39 years,Wyoming (56),0.1
+Gonorrhea,40+ years,Alabama (01),0.32
+Gonorrhea,40+ years,Alaska (02),0.38
+Gonorrhea,40+ years,Arizona (04),0.19
+Gonorrhea,40+ years,Arkansas (05),0.19
+Gonorrhea,40+ years,California (06),0.24
+Gonorrhea,40+ years,Colorado (08),0.13
+Gonorrhea,40+ years,Connecticut (09),0.15
+Gonorrhea,40+ years,Delaware (10),0.23
+Gonorrhea,40+ years,District of Columbia (11),1.18
+Gonorrhea,40+ years,Florida (12),0.22
+Gonorrhea,40+ years,Georgia (13),0.35
+Gonorrhea,40+ years,Hawaii (15),0.15
+Gonorrhea,40+ years,Idaho (16),0.02
+Gonorrhea,40+ years,Illinois (17),0.26
+Gonorrhea,40+ years,Indiana (18),0.17
+Gonorrhea,40+ years,Iowa (19),0.06
+Gonorrhea,40+ years,Kansas (20),0.12
+Gonorrhea,40+ years,Kentucky (21),0.14
+Gonorrhea,40+ years,Louisiana (22),0.29
+Gonorrhea,40+ years,Maine (23),0.03
+Gonorrhea,40+ years,Maryland (24),0.27
+Gonorrhea,40+ years,Massachusetts (25),0.1
+Gonorrhea,40+ years,Michigan (26),0.23
+Gonorrhea,40+ years,Minnesota (27),0.1
+Gonorrhea,40+ years,Mississippi (28),0.32
+Gonorrhea,40+ years,Missouri (29),0.22
+Gonorrhea,40+ years,Montana (30),0.02
+Gonorrhea,40+ years,Nebraska (31),0.09
+Gonorrhea,40+ years,Nevada (32),0.24
+Gonorrhea,40+ years,New Hampshire (33),0.03
+Gonorrhea,40+ years,New Jersey (34),0.13
+Gonorrhea,40+ years,New Mexico (35),0.13
+Gonorrhea,40+ years,New York (36),0.2
+Gonorrhea,40+ years,North Carolina (37),0.3
+Gonorrhea,40+ years,North Dakota (38),0.03
+Gonorrhea,40+ years,Ohio (39),0.24
+Gonorrhea,40+ years,Oklahoma (40),0.17
+Gonorrhea,40+ years,Oregon (41),0.1
+Gonorrhea,40+ years,Pennsylvania (42),0.16
+Gonorrhea,40+ years,Rhode Island (44),0.08
+Gonorrhea,40+ years,South Carolina (45),0.39
+Gonorrhea,40+ years,South Dakota (46),0.05
+Gonorrhea,40+ years,Tennessee (47),0.26
+Gonorrhea,40+ years,Texas (48),0.21
+Gonorrhea,40+ years,Utah (49),0.07
+Gonorrhea,40+ years,Vermont (50),0.02
+Gonorrhea,40+ years,Virginia (51),0.18
+Gonorrhea,40+ years,Washington (53),0.15
+Gonorrhea,40+ years,West Virginia (54),0.06
+Gonorrhea,40+ years,Wisconsin (55),0.14
+Gonorrhea,40+ years,Wyoming (56),0.02
+Primary and Secondary Syphilis,0-14 years,Alabama (01),0
+Primary and Secondary Syphilis,0-14 years,Arizona (04),0
+Primary and Secondary Syphilis,0-14 years,Arkansas (05),0
+Primary and Secondary Syphilis,0-14 years,California (06),0
+Primary and Secondary Syphilis,0-14 years,Connecticut (09),0
+Primary and Secondary Syphilis,0-14 years,District of Columbia (11),0
+Primary and Secondary Syphilis,0-14 years,Florida (12),0
+Primary and Secondary Syphilis,0-14 years,Georgia (13),0
+Primary and Secondary Syphilis,0-14 years,Idaho (16),0
+Primary and Secondary Syphilis,0-14 years,Illinois (17),0
+Primary and Secondary Syphilis,0-14 years,Indiana (18),0
+Primary and Secondary Syphilis,0-14 years,Iowa (19),0
+Primary and Secondary Syphilis,0-14 years,Kentucky (21),0
+Primary and Secondary Syphilis,0-14 years,Louisiana (22),0
+Primary and Secondary Syphilis,0-14 years,Maine (23),0
+Primary and Secondary Syphilis,0-14 years,Maryland (24),0
+Primary and Secondary Syphilis,0-14 years,Massachusetts (25),0
+Primary and Secondary Syphilis,0-14 years,Michigan (26),0
+Primary and Secondary Syphilis,0-14 years,Mississippi (28),0
+Primary and Secondary Syphilis,0-14 years,Missouri (29),0
+Primary and Secondary Syphilis,0-14 years,Nevada (32),0
+Primary and Secondary Syphilis,0-14 years,New Jersey (34),0
+Primary and Secondary Syphilis,0-14 years,New Mexico (35),0
+Primary and Secondary Syphilis,0-14 years,New York (36),0
+Primary and Secondary Syphilis,0-14 years,North Carolina (37),0
+Primary and Secondary Syphilis,0-14 years,Ohio (39),0
+Primary and Secondary Syphilis,0-14 years,Oklahoma (40),0
+Primary and Secondary Syphilis,0-14 years,Oregon (41),0
+Primary and Secondary Syphilis,0-14 years,Pennsylvania (42),0
+Primary and Secondary Syphilis,0-14 years,South Carolina (45),0
+Primary and Secondary Syphilis,0-14 years,Tennessee (47),0
+Primary and Secondary Syphilis,0-14 years,Texas (48),0
+Primary and Secondary Syphilis,0-14 years,Utah (49),0
+Primary and Secondary Syphilis,0-14 years,Virginia (51),0
+Primary and Secondary Syphilis,0-14 years,Washington (53),0
+Primary and Secondary Syphilis,0-14 years,Wisconsin (55),0
+Primary and Secondary Syphilis,15-19 years,Alabama (01),0.06
+Primary and Secondary Syphilis,15-19 years,Alaska (02),0
+Primary and Secondary Syphilis,15-19 years,Arizona (04),0.03
+Primary and Secondary Syphilis,15-19 years,Arkansas (05),0.07
+Primary and Secondary Syphilis,15-19 years,California (06),0.02
+Primary and Secondary Syphilis,15-19 years,Colorado (08),0.01
+Primary and Secondary Syphilis,15-19 years,Connecticut (09),0.01
+Primary and Secondary Syphilis,15-19 years,Delaware (10),0.02
+Primary and Secondary Syphilis,15-19 years,District of Columbia (11),0.16
+Primary and Secondary Syphilis,15-19 years,Florida (12),0.05
+Primary and Secondary Syphilis,15-19 years,Georgia (13),0.05
+Primary and Secondary Syphilis,15-19 years,Hawaii (15),0.01
+Primary and Secondary Syphilis,15-19 years,Idaho (16),0.01
+Primary and Secondary Syphilis,15-19 years,Illinois (17),0.03
+Primary and Secondary Syphilis,15-19 years,Indiana (18),0.03
+Primary and Secondary Syphilis,15-19 years,Iowa (19),0.01
+Primary and Secondary Syphilis,15-19 years,Kansas (20),0.01
+Primary and Secondary Syphilis,15-19 years,Kentucky (21),0.02
+Primary and Secondary Syphilis,15-19 years,Louisiana (22),0.16
+Primary and Secondary Syphilis,15-19 years,Maine (23),0
+Primary and Secondary Syphilis,15-19 years,Maryland (24),0.07
+Primary and Secondary Syphilis,15-19 years,Massachusetts (25),0.01
+Primary and Secondary Syphilis,15-19 years,Michigan (26),0.03
+Primary and Secondary Syphilis,15-19 years,Minnesota (27),0.01
+Primary and Secondary Syphilis,15-19 years,Mississippi (28),0.09
+Primary and Secondary Syphilis,15-19 years,Missouri (29),0.03
+Primary and Secondary Syphilis,15-19 years,Montana (30),0
+Primary and Secondary Syphilis,15-19 years,Nebraska (31),0
+Primary and Secondary Syphilis,15-19 years,Nevada (32),0.03
+Primary and Secondary Syphilis,15-19 years,New Hampshire (33),0
+Primary and Secondary Syphilis,15-19 years,New Jersey (34),0.01
+Primary and Secondary Syphilis,15-19 years,New Mexico (35),0.02
+Primary and Secondary Syphilis,15-19 years,New York (36),0.02
+Primary and Secondary Syphilis,15-19 years,North Carolina (37),0.05
+Primary and Secondary Syphilis,15-19 years,North Dakota (38),0
+Primary and Secondary Syphilis,15-19 years,Ohio (39),0.03
+Primary and Secondary Syphilis,15-19 years,Oklahoma (40),0.02
+Primary and Secondary Syphilis,15-19 years,Oregon (41),0.01
+Primary and Secondary Syphilis,15-19 years,Pennsylvania (42),0.02
+Primary and Secondary Syphilis,15-19 years,Rhode Island (44),0.01
+Primary and Secondary Syphilis,15-19 years,South Carolina (45),0.05
+Primary and Secondary Syphilis,15-19 years,South Dakota (46),0.01
+Primary and Secondary Syphilis,15-19 years,Tennessee (47),0.08
+Primary and Secondary Syphilis,15-19 years,Texas (48),0.05
+Primary and Secondary Syphilis,15-19 years,Utah (49),0
+Primary and Secondary Syphilis,15-19 years,Vermont (50),0
+Primary and Secondary Syphilis,15-19 years,Virginia (51),0.03
+Primary and Secondary Syphilis,15-19 years,Washington (53),0.01
+Primary and Secondary Syphilis,15-19 years,West Virginia (54),0
+Primary and Secondary Syphilis,15-19 years,Wisconsin (55),0.01
+Primary and Secondary Syphilis,15-19 years,Wyoming (56),0
+Primary and Secondary Syphilis,20-24 years,Alabama (01),0.15
+Primary and Secondary Syphilis,20-24 years,Alaska (02),0.01
+Primary and Secondary Syphilis,20-24 years,Arizona (04),0.1
+Primary and Secondary Syphilis,20-24 years,Arkansas (05),0.15
+Primary and Secondary Syphilis,20-24 years,California (06),0.08
+Primary and Secondary Syphilis,20-24 years,Colorado (08),0.04
+Primary and Secondary Syphilis,20-24 years,Connecticut (09),0.04
+Primary and Secondary Syphilis,20-24 years,Delaware (10),0.07
+Primary and Secondary Syphilis,20-24 years,District of Columbia (11),0.25
+Primary and Secondary Syphilis,20-24 years,Florida (12),0.13
+Primary and Secondary Syphilis,20-24 years,Georgia (13),0.18
+Primary and Secondary Syphilis,20-24 years,Hawaii (15),0.03
+Primary and Secondary Syphilis,20-24 years,Idaho (16),0.02
+Primary and Secondary Syphilis,20-24 years,Illinois (17),0.11
+Primary and Secondary Syphilis,20-24 years,Indiana (18),0.08
+Primary and Secondary Syphilis,20-24 years,Iowa (19),0.02
+Primary and Secondary Syphilis,20-24 years,Kansas (20),0.03
+Primary and Secondary Syphilis,20-24 years,Kentucky (21),0.07
+Primary and Secondary Syphilis,20-24 years,Louisiana (22),0.29
+Primary and Secondary Syphilis,20-24 years,Maine (23),0.01
+Primary and Secondary Syphilis,20-24 years,Maryland (24),0.2
+Primary and Secondary Syphilis,20-24 years,Massachusetts (25),0.05
+Primary and Secondary Syphilis,20-24 years,Michigan (26),0.08
+Primary and Secondary Syphilis,20-24 years,Minnesota (27),0.04
+Primary and Secondary Syphilis,20-24 years,Mississippi (28),0.21
+Primary and Secondary Syphilis,20-24 years,Missouri (29),0.07
+Primary and Secondary Syphilis,20-24 years,Montana (30),0.01
+Primary and Secondary Syphilis,20-24 years,Nebraska (31),0.02
+Primary and Secondary Syphilis,20-24 years,Nevada (32),0.1
+Primary and Secondary Syphilis,20-24 years,New Hampshire (33),0.02
+Primary and Secondary Syphilis,20-24 years,New Jersey (34),0.05
+Primary and Secondary Syphilis,20-24 years,New Mexico (35),0.08
+Primary and Secondary Syphilis,20-24 years,New York (36),0.08
+Primary and Secondary Syphilis,20-24 years,North Carolina (37),0.14
+Primary and Secondary Syphilis,20-24 years,North Dakota (38),0.01
+Primary and Secondary Syphilis,20-24 years,Ohio (39),0.08
+Primary and Secondary Syphilis,20-24 years,Oklahoma (40),0.06
+Primary and Secondary Syphilis,20-24 years,Oregon (41),0.03
+Primary and Secondary Syphilis,20-24 years,Pennsylvania (42),0.06
+Primary and Secondary Syphilis,20-24 years,Rhode Island (44),0.04
+Primary and Secondary Syphilis,20-24 years,South Carolina (45),0.13
+Primary and Secondary Syphilis,20-24 years,South Dakota (46),0.03
+Primary and Secondary Syphilis,20-24 years,Tennessee (47),0.17
+Primary and Secondary Syphilis,20-24 years,Texas (48),0.13
+Primary and Secondary Syphilis,20-24 years,Utah (49),0.01
+Primary and Secondary Syphilis,20-24 years,Vermont (50),0.01
+Primary and Secondary Syphilis,20-24 years,Virginia (51),0.07
+Primary and Secondary Syphilis,20-24 years,Washington (53),0.04
+Primary and Secondary Syphilis,20-24 years,West Virginia (54),0.01
+Primary and Secondary Syphilis,20-24 years,Wisconsin (55),0.03
+Primary and Secondary Syphilis,20-24 years,Wyoming (56),0.01
+Primary and Secondary Syphilis,25-29 years,Alabama (01),0.14
+Primary and Secondary Syphilis,25-29 years,Alaska (02),0.02
+Primary and Secondary Syphilis,25-29 years,Arizona (04),0.09
+Primary and Secondary Syphilis,25-29 years,Arkansas (05),0.13
+Primary and Secondary Syphilis,25-29 years,California (06),0.09
+Primary and Secondary Syphilis,25-29 years,Colorado (08),0.03
+Primary and Secondary Syphilis,25-29 years,Connecticut (09),0.04
+Primary and Secondary Syphilis,25-29 years,Delaware (10),0.07
+Primary and Secondary Syphilis,25-29 years,District of Columbia (11),0.28
+Primary and Secondary Syphilis,25-29 years,Florida (12),0.11
+Primary and Secondary Syphilis,25-29 years,Georgia (13),0.19
+Primary and Secondary Syphilis,25-29 years,Hawaii (15),0.03
+Primary and Secondary Syphilis,25-29 years,Idaho (16),0.02
+Primary and Secondary Syphilis,25-29 years,Illinois (17),0.11
+Primary and Secondary Syphilis,25-29 years,Indiana (18),0.07
+Primary and Secondary Syphilis,25-29 years,Iowa (19),0.02
+Primary and Secondary Syphilis,25-29 years,Kansas (20),0.02
+Primary and Secondary Syphilis,25-29 years,Kentucky (21),0.05
+Primary and Secondary Syphilis,25-29 years,Louisiana (22),0.22
+Primary and Secondary Syphilis,25-29 years,Maine (23),0.02
+Primary and Secondary Syphilis,25-29 years,Maryland (24),0.19
+Primary and Secondary Syphilis,25-29 years,Massachusetts (25),0.05
+Primary and Secondary Syphilis,25-29 years,Michigan (26),0.07
+Primary and Secondary Syphilis,25-29 years,Minnesota (27),0.04
+Primary and Secondary Syphilis,25-29 years,Mississippi (28),0.17
+Primary and Secondary Syphilis,25-29 years,Missouri (29),0.06
+Primary and Secondary Syphilis,25-29 years,Montana (30),0.01
+Primary and Secondary Syphilis,25-29 years,Nebraska (31),0.02
+Primary and Secondary Syphilis,25-29 years,Nevada (32),0.09
+Primary and Secondary Syphilis,25-29 years,New Hampshire (33),0.02
+Primary and Secondary Syphilis,25-29 years,New Jersey (34),0.06
+Primary and Secondary Syphilis,25-29 years,New Mexico (35),0.07
+Primary and Secondary Syphilis,25-29 years,New York (36),0.1
+Primary and Secondary Syphilis,25-29 years,North Carolina (37),0.13
+Primary and Secondary Syphilis,25-29 years,North Dakota (38),0.01
+Primary and Secondary Syphilis,25-29 years,Ohio (39),0.07
+Primary and Secondary Syphilis,25-29 years,Oklahoma (40),0.07
+Primary and Secondary Syphilis,25-29 years,Oregon (41),0.04
+Primary and Secondary Syphilis,25-29 years,Pennsylvania (42),0.06
+Primary and Secondary Syphilis,25-29 years,Rhode Island (44),0.05
+Primary and Secondary Syphilis,25-29 years,South Carolina (45),0.12
+Primary and Secondary Syphilis,25-29 years,South Dakota (46),0.02
+Primary and Secondary Syphilis,25-29 years,Tennessee (47),0.15
+Primary and Secondary Syphilis,25-29 years,Texas (48),0.1
+Primary and Secondary Syphilis,25-29 years,Utah (49),0.02
+Primary and Secondary Syphilis,25-29 years,Vermont (50),0.01
+Primary and Secondary Syphilis,25-29 years,Virginia (51),0.07
+Primary and Secondary Syphilis,25-29 years,Washington (53),0.05
+Primary and Secondary Syphilis,25-29 years,West Virginia (54),0.01
+Primary and Secondary Syphilis,25-29 years,Wisconsin (55),0.03
+Primary and Secondary Syphilis,25-29 years,Wyoming (56),0.01
+Primary and Secondary Syphilis,30-34 years,Alabama (01),0.12
+Primary and Secondary Syphilis,30-34 years,Alaska (02),0.01
+Primary and Secondary Syphilis,30-34 years,Arizona (04),0.08
+Primary and Secondary Syphilis,30-34 years,Arkansas (05),0.1
+Primary and Secondary Syphilis,30-34 years,California (06),0.09
+Primary and Secondary Syphilis,30-34 years,Colorado (08),0.03
+Primary and Secondary Syphilis,30-34 years,Connecticut (09),0.03
+Primary and Secondary Syphilis,30-34 years,Delaware (10),0.05
+Primary and Secondary Syphilis,30-34 years,District of Columbia (11),0.36
+Primary and Secondary Syphilis,30-34 years,Florida (12),0.1
+Primary and Secondary Syphilis,30-34 years,Georgia (13),0.16
+Primary and Secondary Syphilis,30-34 years,Hawaii (15),0.03
+Primary and Secondary Syphilis,30-34 years,Idaho (16),0.01
+Primary and Secondary Syphilis,30-34 years,Illinois (17),0.1
+Primary and Secondary Syphilis,30-34 years,Indiana (18),0.06
+Primary and Secondary Syphilis,30-34 years,Iowa (19),0.02
+Primary and Secondary Syphilis,30-34 years,Kansas (20),0.02
+Primary and Secondary Syphilis,30-34 years,Kentucky (21),0.05
+Primary and Secondary Syphilis,30-34 years,Louisiana (22),0.17
+Primary and Secondary Syphilis,30-34 years,Maine (23),0.01
+Primary and Secondary Syphilis,30-34 years,Maryland (24),0.17
+Primary and Secondary Syphilis,30-34 years,Massachusetts (25),0.05
+Primary and Secondary Syphilis,30-34 years,Michigan (26),0.05
+Primary and Secondary Syphilis,30-34 years,Minnesota (27),0.03
+Primary and Secondary Syphilis,30-34 years,Mississippi (28),0.14
+Primary and Secondary Syphilis,30-34 years,Missouri (29),0.05
+Primary and Secondary Syphilis,30-34 years,Montana (30),0.01
+Primary and Secondary Syphilis,30-34 years,Nebraska (31),0.02
+Primary and Secondary Syphilis,30-34 years,Nevada (32),0.07
+Primary and Secondary Syphilis,30-34 years,New Hampshire (33),0.02
+Primary and Secondary Syphilis,30-34 years,New Jersey (34),0.05
+Primary and Secondary Syphilis,30-34 years,New Mexico (35),0.06
+Primary and Secondary Syphilis,30-34 years,New York (36),0.09
+Primary and Secondary Syphilis,30-34 years,North Carolina (37),0.11
+Primary and Secondary Syphilis,30-34 years,North Dakota (38),0
+Primary and Secondary Syphilis,30-34 years,Ohio (39),0.06
+Primary and Secondary Syphilis,30-34 years,Oklahoma (40),0.06
+Primary and Secondary Syphilis,30-34 years,Oregon (41),0.04
+Primary and Secondary Syphilis,30-34 years,Pennsylvania (42),0.04
+Primary and Secondary Syphilis,30-34 years,Rhode Island (44),0.05
+Primary and Secondary Syphilis,30-34 years,South Carolina (45),0.09
+Primary and Secondary Syphilis,30-34 years,South Dakota (46),0.01
+Primary and Secondary Syphilis,30-34 years,Tennessee (47),0.12
+Primary and Secondary Syphilis,30-34 years,Texas (48),0.08
+Primary and Secondary Syphilis,30-34 years,Utah (49),0.02
+Primary and Secondary Syphilis,30-34 years,Vermont (50),0.01
+Primary and Secondary Syphilis,30-34 years,Virginia (51),0.05
+Primary and Secondary Syphilis,30-34 years,Washington (53),0.05
+Primary and Secondary Syphilis,30-34 years,West Virginia (54),0.01
+Primary and Secondary Syphilis,30-34 years,Wisconsin (55),0.02
+Primary and Secondary Syphilis,30-34 years,Wyoming (56),0.01
+Primary and Secondary Syphilis,35-39 years,Alabama (01),0.1
+Primary and Secondary Syphilis,35-39 years,Alaska (02),0.02
+Primary and Secondary Syphilis,35-39 years,Arizona (04),0.08
+Primary and Secondary Syphilis,35-39 years,Arkansas (05),0.08
+Primary and Secondary Syphilis,35-39 years,California (06),0.09
+Primary and Secondary Syphilis,35-39 years,Colorado (08),0.03
+Primary and Secondary Syphilis,35-39 years,Connecticut (09),0.03
+Primary and Secondary Syphilis,35-39 years,Delaware (10),0.05
+Primary and Secondary Syphilis,35-39 years,District of Columbia (11),0.37
+Primary and Secondary Syphilis,35-39 years,Florida (12),0.1
+Primary and Secondary Syphilis,35-39 years,Georgia (13),0.15
+Primary and Secondary Syphilis,35-39 years,Hawaii (15),0.02
+Primary and Secondary Syphilis,35-39 years,Idaho (16),0
+Primary and Secondary Syphilis,35-39 years,Illinois (17),0.09
+Primary and Secondary Syphilis,35-39 years,Indiana (18),0.05
+Primary and Secondary Syphilis,35-39 years,Iowa (19),0.02
+Primary and Secondary Syphilis,35-39 years,Kansas (20),0.02
+Primary and Secondary Syphilis,35-39 years,Kentucky (21),0.05
+Primary and Secondary Syphilis,35-39 years,Louisiana (22),0.13
+Primary and Secondary Syphilis,35-39 years,Maine (23),0.01
+Primary and Secondary Syphilis,35-39 years,Maryland (24),0.14
+Primary and Secondary Syphilis,35-39 years,Massachusetts (25),0.05
+Primary and Secondary Syphilis,35-39 years,Michigan (26),0.05
+Primary and Secondary Syphilis,35-39 years,Minnesota (27),0.03
+Primary and Secondary Syphilis,35-39 years,Mississippi (28),0.11
+Primary and Secondary Syphilis,35-39 years,Missouri (29),0.05
+Primary and Secondary Syphilis,35-39 years,Montana (30),0.01
+Primary and Secondary Syphilis,35-39 years,Nebraska (31),0.01
+Primary and Secondary Syphilis,35-39 years,Nevada (32),0.06
+Primary and Secondary Syphilis,35-39 years,New Hampshire (33),0.02
+Primary and Secondary Syphilis,35-39 years,New Jersey (34),0.04
+Primary and Secondary Syphilis,35-39 years,New Mexico (35),0.05
+Primary and Secondary Syphilis,35-39 years,New York (36),0.09
+Primary and Secondary Syphilis,35-39 years,North Carolina (37),0.1
+Primary and Secondary Syphilis,35-39 years,North Dakota (38),0
+Primary and Secondary Syphilis,35-39 years,Ohio (39),0.05
+Primary and Secondary Syphilis,35-39 years,Oklahoma (40),0.06
+Primary and Secondary Syphilis,35-39 years,Oregon (41),0.04
+Primary and Secondary Syphilis,35-39 years,Pennsylvania (42),0.03
+Primary and Secondary Syphilis,35-39 years,Rhode Island (44),0.04
+Primary and Secondary Syphilis,35-39 years,South Carolina (45),0.09
+Primary and Secondary Syphilis,35-39 years,South Dakota (46),0.02
+Primary and Secondary Syphilis,35-39 years,Tennessee (47),0.12
+Primary and Secondary Syphilis,35-39 years,Texas (48),0.07
+Primary and Secondary Syphilis,35-39 years,Utah (49),0.02
+Primary and Secondary Syphilis,35-39 years,Vermont (50),0.01
+Primary and Secondary Syphilis,35-39 years,Virginia (51),0.05
+Primary and Secondary Syphilis,35-39 years,Washington (53),0.05
+Primary and Secondary Syphilis,35-39 years,West Virginia (54),0.01
+Primary and Secondary Syphilis,35-39 years,Wisconsin (55),0.02
+Primary and Secondary Syphilis,35-39 years,Wyoming (56),0
+Primary and Secondary Syphilis,40+ years,Alabama (01),0.04
+Primary and Secondary Syphilis,40+ years,Alaska (02),0.01
+Primary and Secondary Syphilis,40+ years,Arizona (04),0.03
+Primary and Secondary Syphilis,40+ years,Arkansas (05),0.02
+Primary and Secondary Syphilis,40+ years,California (06),0.04
+Primary and Secondary Syphilis,40+ years,Colorado (08),0.01
+Primary and Secondary Syphilis,40+ years,Connecticut (09),0.01
+Primary and Secondary Syphilis,40+ years,Delaware (10),0.01
+Primary and Secondary Syphilis,40+ years,District of Columbia (11),0.15
+Primary and Secondary Syphilis,40+ years,Florida (12),0.03
+Primary and Secondary Syphilis,40+ years,Georgia (13),0.05
+Primary and Secondary Syphilis,40+ years,Hawaii (15),0.01
+Primary and Secondary Syphilis,40+ years,Idaho (16),0
+Primary and Secondary Syphilis,40+ years,Illinois (17),0.03
+Primary and Secondary Syphilis,40+ years,Indiana (18),0.01
+Primary and Secondary Syphilis,40+ years,Iowa (19),0.01
+Primary and Secondary Syphilis,40+ years,Kansas (20),0.01
+Primary and Secondary Syphilis,40+ years,Kentucky (21),0.01
+Primary and Secondary Syphilis,40+ years,Louisiana (22),0.04
+Primary and Secondary Syphilis,40+ years,Maine (23),0
+Primary and Secondary Syphilis,40+ years,Maryland (24),0.05
+Primary and Secondary Syphilis,40+ years,Massachusetts (25),0.02
+Primary and Secondary Syphilis,40+ years,Michigan (26),0.02
+Primary and Secondary Syphilis,40+ years,Minnesota (27),0.01
+Primary and Secondary Syphilis,40+ years,Mississippi (28),0.03
+Primary and Secondary Syphilis,40+ years,Missouri (29),0.02
+Primary and Secondary Syphilis,40+ years,Montana (30),0
+Primary and Secondary Syphilis,40+ years,Nebraska (31),0
+Primary and Secondary Syphilis,40+ years,Nevada (32),0.02
+Primary and Secondary Syphilis,40+ years,New Hampshire (33),0.01
+Primary and Secondary Syphilis,40+ years,New Jersey (34),0.01
+Primary and Secondary Syphilis,40+ years,New Mexico (35),0.02
+Primary and Secondary Syphilis,40+ years,New York (36),0.03
+Primary and Secondary Syphilis,40+ years,North Carolina (37),0.03
+Primary and Secondary Syphilis,40+ years,North Dakota (38),0
+Primary and Secondary Syphilis,40+ years,Ohio (39),0.01
+Primary and Secondary Syphilis,40+ years,Oklahoma (40),0.02
+Primary and Secondary Syphilis,40+ years,Oregon (41),0.02
+Primary and Secondary Syphilis,40+ years,Pennsylvania (42),0.01
+Primary and Secondary Syphilis,40+ years,Rhode Island (44),0.02
+Primary and Secondary Syphilis,40+ years,South Carolina (45),0.03
+Primary and Secondary Syphilis,40+ years,South Dakota (46),0.01
+Primary and Secondary Syphilis,40+ years,Tennessee (47),0.04
+Primary and Secondary Syphilis,40+ years,Texas (48),0.03
+Primary and Secondary Syphilis,40+ years,Utah (49),0.01
+Primary and Secondary Syphilis,40+ years,Vermont (50),0.01
+Primary and Secondary Syphilis,40+ years,Virginia (51),0.02
+Primary and Secondary Syphilis,40+ years,Washington (53),0.02
+Primary and Secondary Syphilis,40+ years,West Virginia (54),0
+Primary and Secondary Syphilis,40+ years,Wisconsin (55),0.01
+Primary and Secondary Syphilis,40+ years,Wyoming (56),0
