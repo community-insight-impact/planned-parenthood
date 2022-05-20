@@ -1,8 +1,6 @@
 """ 
 1.txt requirements:
 
-
-
 """
 import re
 import string
@@ -89,7 +87,6 @@ def main():
     mystr = mystr.translate(str.maketrans('', '', punctuations))
 
 
-    stopwordslist = stopwords.words('english')
     stop_words = set(stopwords.words('english')) 
     tokenwords = word_tokenize(mystr) 
     result = [w for w in tokenwords if not w in stop_words] 
@@ -102,14 +99,19 @@ def main():
     for ele in result:
         mystr += ele + " "
 
+    # after tokenizing words, quotation marks change:  "" -> ``
+    # also, they are no longer next to the words: "hello" -> " hello "
+        # making them part of different indices in an array.
     mystr = re.sub(' +', ' ', mystr)
     mystr = re.sub(" +", " ", mystr)
-    mystr = re.sub("`` ", "", mystr)
-    mystr = re.sub(" ``", "", mystr)
+    mystr = re.sub("`` ", "", mystr) # get rid of "fancy" quotation marks
+    mystr = re.sub(" ``", "", mystr) # get rid of "fancy" quotation marks
     # mystr = re.sub("[(] \d+ [)]", "\d+", mystr)
-    mystr = re.sub("page \d+", "", mystr)
-    mystr = re.sub("\( \d+ \)", "", mystr)
-    mystr = re.sub(r"\s+", " ", mystr)
+    mystr = re.sub("page \d+", "", mystr) # if there is a number followed by the word page
+                                          # remove the word page and the number followed by it
+    mystr = re.sub("\( \d+ \)", "", mystr)# remove the numbers in parantheses, which exists after
+                                          # tokenaziation 
+    mystr = re.sub(r"\s+", " ", mystr)    
 
     print(mystr)
     
