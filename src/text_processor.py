@@ -8,16 +8,17 @@ class TextProcessor:
         self.processed_corpus = input_corpus
 
     def remove_digits(self):
-        """Removes the digits in the description"""
+        """Removes digits"""
         for index, row in enumerate(self.processed_corpus):
             self.processed_corpus[index] = re.sub("[0-9]+", " ", row)
 
     def remove_punctuation(self):
-        """Removes punctuation from the description"""
+        """Removes punctuation"""
         for index, row in enumerate(self.processed_corpus):
             self.processed_corpus[index] = re.sub(r"[^\w\s]", " ", row)
 
     def remove_stop_words(self):
+        """Removes stop words"""
         stops = set(stopwords.words('english'))
         words_to_keep = [
             "shan",
