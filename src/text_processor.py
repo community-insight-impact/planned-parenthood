@@ -1,7 +1,7 @@
 import re
 from nltk.corpus import stopwords
 import string
-
+from collections import Counter
 
 class TextProcessor:
     def __init__(self, input_corpus: list):
@@ -40,8 +40,22 @@ class TextProcessor:
         stops += ['ii', 'iii', 'iv']
 
         for index, row in enumerate(self.processed_corpus):
-            self.processed_corpus[index] = " ".join(
+            self.processed_corpus[index] = [
                 token.lower()
                 for token in row.split()
                 if token.lower() not in stops
+            ]
+
+    def remove_common_words(self):
+        """Removes the 20 most common words from the corpus"""
+        counter = Counter([item for sublist in self.processed_corpus for item in sublist])
+        most_common = [tuple[0] for tuple in counter.most_common(20)]
+    
+        for index, row in enumerate(self.processed_corpus):
+            self.processed_corpus[index] = " ".join(
+                [
+                    token.lower()
+                    for token in row
+                    if token not in most_common
+                ]
             )
