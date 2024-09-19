@@ -1,0 +1,859 @@
+placeDcid,placeName,Date:Count_Person,Value:Count_Person,Source:Count_Person
+geoId/72001,Adjuntas Municipio,2011,19514,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72001,Adjuntas Municipio,2012,19458,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72001,Adjuntas Municipio,2013,19334,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72001,Adjuntas Municipio,2014,19188,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72001,Adjuntas Municipio,2015,18962,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72001,Adjuntas Municipio,2016,18760,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72001,Adjuntas Municipio,2017,18525,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72001,Adjuntas Municipio,2018,18181,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72001,Adjuntas Municipio,2019,17891,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72001,Adjuntas Municipio,2020,17614,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72003,Aguada Municipio,2011,42082,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72003,Aguada Municipio,2012,41876,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72003,Aguada Municipio,2013,41595,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72003,Aguada Municipio,2014,41176,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72003,Aguada Municipio,2015,40603,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72003,Aguada Municipio,2016,40083,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72003,Aguada Municipio,2017,39470,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72003,Aguada Municipio,2018,38643,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72003,Aguada Municipio,2019,37954,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72003,Aguada Municipio,2020,37307,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72005,Aguadilla Municipio,2011,61384,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72005,Aguadilla Municipio,2012,60714,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72005,Aguadilla Municipio,2013,59982,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72005,Aguadilla Municipio,2014,59068,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72005,Aguadilla Municipio,2015,57973,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72005,Aguadilla Municipio,2016,56893,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72005,Aguadilla Municipio,2017,55722,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72005,Aguadilla Municipio,2018,54166,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72005,Aguadilla Municipio,2019,52803,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72005,Aguadilla Municipio,2020,51552,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72007,Aguas Buenas Municipio,2011,28745,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72007,Aguas Buenas Municipio,2012,28573,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72007,Aguas Buenas Municipio,2013,28378,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72007,Aguas Buenas Municipio,2014,28083,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72007,Aguas Buenas Municipio,2015,27693,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72007,Aguas Buenas Municipio,2016,27323,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72007,Aguas Buenas Municipio,2017,26855,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72007,Aguas Buenas Municipio,2018,26275,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72007,Aguas Buenas Municipio,2019,25748,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72007,Aguas Buenas Municipio,2020,25298,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72009,Aibonito Municipio,2011,26011,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72009,Aibonito Municipio,2012,25823,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72009,Aibonito Municipio,2013,25560,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72009,Aibonito Municipio,2014,25241,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72009,Aibonito Municipio,2015,24829,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72009,Aibonito Municipio,2016,24438,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72009,Aibonito Municipio,2017,24008,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72009,Aibonito Municipio,2018,23457,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72009,Aibonito Municipio,2019,22988,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72009,Aibonito Municipio,2020,22545,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72011,A?asco Municipio,2011,29266,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72011,A?asco Municipio,2012,29236,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72011,A?asco Municipio,2013,29086,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72011,A?asco Municipio,2014,28874,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72011,A?asco Municipio,2015,28579,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72011,A?asco Municipio,2016,28250,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72011,A?asco Municipio,2017,27892,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72011,A?asco Municipio,2018,27368,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72011,A?asco Municipio,2019,26934,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72011,A?asco Municipio,2020,26555,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72013,Arecibo Municipio,2011,96984,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72013,Arecibo Municipio,2012,96176,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72013,Arecibo Municipio,2013,95185,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72013,Arecibo Municipio,2014,93969,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72013,Arecibo Municipio,2015,92511,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72013,Arecibo Municipio,2016,91096,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72013,Arecibo Municipio,2017,89550,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72013,Arecibo Municipio,2018,87242,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72013,Arecibo Municipio,2019,85390,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72013,Arecibo Municipio,2020,83682,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72015,Arroyo Municipio,2011,19601,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72015,Arroyo Municipio,2012,19542,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72015,Arroyo Municipio,2013,19443,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72015,Arroyo Municipio,2014,19255,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72015,Arroyo Municipio,2015,19018,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72015,Arroyo Municipio,2016,18778,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72015,Arroyo Municipio,2017,18504,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72015,Arroyo Municipio,2018,18111,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72015,Arroyo Municipio,2019,17805,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72015,Arroyo Municipio,2020,17502,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72017,Barceloneta Municipio,2011,24685,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72017,Barceloneta Municipio,2012,24815,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72017,Barceloneta Municipio,2013,24884,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72017,Barceloneta Municipio,2014,24908,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72017,Barceloneta Municipio,2015,24775,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72017,Barceloneta Municipio,2016,24699,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72017,Barceloneta Municipio,2017,24583,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72017,Barceloneta Municipio,2018,24299,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72017,Barceloneta Municipio,2019,24079,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72017,Barceloneta Municipio,2020,23913,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72019,Barranquitas Municipio,2011,30317,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72019,Barranquitas Municipio,2012,30322,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72019,Barranquitas Municipio,2013,30218,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72019,Barranquitas Municipio,2014,30045,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72019,Barranquitas Municipio,2015,29805,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72019,Barranquitas Municipio,2016,29548,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72019,Barranquitas Municipio,2017,29237,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72019,Barranquitas Municipio,2018,28755,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72019,Barranquitas Municipio,2019,28393,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72019,Barranquitas Municipio,2020,28026,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72021,Bayam¨®n Municipio,2011,209900,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72021,Bayam¨®n Municipio,2012,207337,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72021,Bayam¨®n Municipio,2013,204725,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72021,Bayam¨®n Municipio,2014,201273,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72021,Bayam¨®n Municipio,2015,197287,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72021,Bayam¨®n Municipio,2016,192974,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72021,Bayam¨®n Municipio,2017,188614,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72021,Bayam¨®n Municipio,2018,182955,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72021,Bayam¨®n Municipio,2019,178192,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72021,Bayam¨®n Municipio,2020,173695,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72023,Cabo Rojo Municipio,2011,50733,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72023,Cabo Rojo Municipio,2012,50866,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72023,Cabo Rojo Municipio,2013,50869,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72023,Cabo Rojo Municipio,2014,50706,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72023,Cabo Rojo Municipio,2015,50380,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72023,Cabo Rojo Municipio,2016,50096,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72023,Cabo Rojo Municipio,2017,49726,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72023,Cabo Rojo Municipio,2018,49005,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72023,Cabo Rojo Municipio,2019,48487,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72023,Cabo Rojo Municipio,2020,47977,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72025,Caguas Municipio,2011,143087,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72025,Caguas Municipio,2012,142549,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72025,Caguas Municipio,2013,141600,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72025,Caguas Municipio,2014,140166,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72025,Caguas Municipio,2015,138262,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72025,Caguas Municipio,2016,136372,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72025,Caguas Municipio,2017,134269,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72025,Caguas Municipio,2018,131363,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72025,Caguas Municipio,2019,128937,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72025,Caguas Municipio,2020,126734,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72027,Camuy Municipio,2011,35260,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72027,Camuy Municipio,2012,35085,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72027,Camuy Municipio,2013,34806,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72027,Camuy Municipio,2014,34438,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72027,Camuy Municipio,2015,33949,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72027,Camuy Municipio,2016,33481,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72027,Camuy Municipio,2017,32936,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72027,Camuy Municipio,2018,32222,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72027,Camuy Municipio,2019,31598,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72027,Camuy Municipio,2020,31066,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72029,Can¨®vanas Municipio,2011,47458,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72029,Can¨®vanas Municipio,2012,47656,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72029,Can¨®vanas Municipio,2013,47730,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72029,Can¨®vanas Municipio,2014,47655,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72029,Can¨®vanas Municipio,2015,47432,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72029,Can¨®vanas Municipio,2016,47174,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72029,Can¨®vanas Municipio,2017,46779,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72029,Can¨®vanas Municipio,2018,46108,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72029,Can¨®vanas Municipio,2019,45588,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72029,Can¨®vanas Municipio,2020,45120,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72031,Carolina Municipio,2011,177873,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72031,Carolina Municipio,2012,176157,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72031,Carolina Municipio,2013,173994,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72031,Carolina Municipio,2014,171310,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72031,Carolina Municipio,2015,168114,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72031,Carolina Municipio,2016,165040,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72031,Carolina Municipio,2017,161684,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72031,Carolina Municipio,2018,157453,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72031,Carolina Municipio,2019,153779,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72031,Carolina Municipio,2020,150378,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72033,Cata?o Municipio,2011,28371,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72033,Cata?o Municipio,2012,28049,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72033,Cata?o Municipio,2013,27669,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72033,Cata?o Municipio,2014,27211,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72033,Cata?o Municipio,2015,26680,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72033,Cata?o Municipio,2016,26137,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72033,Cata?o Municipio,2017,25595,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72033,Cata?o Municipio,2018,24888,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72033,Cata?o Municipio,2019,24271,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72033,Cata?o Municipio,2020,23698,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72035,Cayey Municipio,2011,48184,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72035,Cayey Municipio,2012,48008,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72035,Cayey Municipio,2013,47700,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72035,Cayey Municipio,2014,47252,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72035,Cayey Municipio,2015,46647,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72035,Cayey Municipio,2016,46071,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72035,Cayey Municipio,2017,45431,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72035,Cayey Municipio,2018,44530,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72035,Cayey Municipio,2019,43785,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72035,Cayey Municipio,2020,43126,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72037,Ceiba Municipio,2011,14087,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72037,Ceiba Municipio,2012,13726,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72037,Ceiba Municipio,2013,13419,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72037,Ceiba Municipio,2014,13122,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72037,Ceiba Municipio,2015,12810,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72037,Ceiba Municipio,2016,12538,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72037,Ceiba Municipio,2017,12238,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72037,Ceiba Municipio,2018,11853,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72037,Ceiba Municipio,2019,11515,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72037,Ceiba Municipio,2020,11207,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72039,Ciales Municipio,2011,18912,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72039,Ciales Municipio,2012,18712,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72039,Ciales Municipio,2013,18509,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72039,Ciales Municipio,2014,18242,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72039,Ciales Municipio,2015,17928,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72039,Ciales Municipio,2016,17644,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72039,Ciales Municipio,2017,17325,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72039,Ciales Municipio,2018,16912,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72039,Ciales Municipio,2019,16513,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72039,Ciales Municipio,2020,16188,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72041,Cidra Municipio,2011,43564,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72041,Cidra Municipio,2012,43414,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72041,Cidra Municipio,2013,43238,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72041,Cidra Municipio,2014,42878,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72041,Cidra Municipio,2015,42298,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72041,Cidra Municipio,2016,41782,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72041,Cidra Municipio,2017,41181,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72041,Cidra Municipio,2018,40343,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72041,Cidra Municipio,2019,39607,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72041,Cidra Municipio,2020,38977,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72043,Coamo Municipio,2011,40433,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72043,Coamo Municipio,2012,40577,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72043,Coamo Municipio,2013,40579,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72043,Coamo Municipio,2014,40496,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72043,Coamo Municipio,2015,40293,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72043,Coamo Municipio,2016,40090,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72043,Coamo Municipio,2017,39796,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72043,Coamo Municipio,2018,39265,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72043,Coamo Municipio,2019,38906,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72043,Coamo Municipio,2020,38603,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72045,Comer¨ªo Municipio,2011,20778,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72045,Comer¨ªo Municipio,2012,20745,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72045,Comer¨ªo Municipio,2013,20676,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72045,Comer¨ªo Municipio,2014,20533,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72045,Comer¨ªo Municipio,2015,20339,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72045,Comer¨ªo Municipio,2016,20153,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72045,Comer¨ªo Municipio,2017,19914,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72045,Comer¨ªo Municipio,2018,19539,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72045,Comer¨ªo Municipio,2019,19224,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72045,Comer¨ªo Municipio,2020,18942,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72047,Corozal Municipio,2011,37238,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72047,Corozal Municipio,2012,37074,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72047,Corozal Municipio,2013,36828,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72047,Corozal Municipio,2014,36463,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72047,Corozal Municipio,2015,35975,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72047,Corozal Municipio,2016,35484,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72047,Corozal Municipio,2017,34933,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72047,Corozal Municipio,2018,34165,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72047,Corozal Municipio,2019,33500,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72047,Corozal Municipio,2020,32928,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72049,Culebra Municipio,2011,1831,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72049,Culebra Municipio,2012,1535,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72049,Culebra Municipio,2013,1478,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72049,Culebra Municipio,2014,1585,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72049,Culebra Municipio,2015,1557,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72049,Culebra Municipio,2016,1508,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72049,Culebra Municipio,2017,1494,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72049,Culebra Municipio,2018,1314,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72049,Culebra Municipio,2019,1311,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72049,Culebra Municipio,2020,1371,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72051,Dorado Municipio,2011,37942,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72051,Dorado Municipio,2012,38179,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72051,Dorado Municipio,2013,38303,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72051,Dorado Municipio,2014,38305,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72051,Dorado Municipio,2015,38166,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72051,Dorado Municipio,2016,38013,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72051,Dorado Municipio,2017,37722,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72051,Dorado Municipio,2018,37208,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72051,Dorado Municipio,2019,36803,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72051,Dorado Municipio,2020,36475,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72053,Fajardo Municipio,2011,37387,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72053,Fajardo Municipio,2012,36857,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72053,Fajardo Municipio,2013,36252,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72053,Fajardo Municipio,2014,35539,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72053,Fajardo Municipio,2015,34720,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72053,Fajardo Municipio,2016,33912,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72053,Fajardo Municipio,2017,33075,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72053,Fajardo Municipio,2018,32001,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72053,Fajardo Municipio,2019,31111,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72053,Fajardo Municipio,2020,30263,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72054,Florida Municipio,2011,12691,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72054,Florida Municipio,2012,12657,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72054,Florida Municipio,2013,12645,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72054,Florida Municipio,2014,12565,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72054,Florida Municipio,2015,12408,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72054,Florida Municipio,2016,12287,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72054,Florida Municipio,2017,12140,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72054,Florida Municipio,2018,11910,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72054,Florida Municipio,2019,11697,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72054,Florida Municipio,2020,11513,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72055,Gu¨¢nica Municipio,2011,19680,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72055,Gu¨¢nica Municipio,2012,19363,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72055,Gu¨¢nica Municipio,2013,19019,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72055,Gu¨¢nica Municipio,2014,18627,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72055,Gu¨¢nica Municipio,2015,18207,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72055,Gu¨¢nica Municipio,2016,17788,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72055,Gu¨¢nica Municipio,2017,17327,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72055,Gu¨¢nica Municipio,2018,16783,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72055,Gu¨¢nica Municipio,2019,16293,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72055,Gu¨¢nica Municipio,2020,15825,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72057,Guayama Municipio,2011,45390,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72057,Guayama Municipio,2012,45250,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72057,Guayama Municipio,2013,44725,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72057,Guayama Municipio,2014,44261,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72057,Guayama Municipio,2015,43700,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72057,Guayama Municipio,2016,43210,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72057,Guayama Municipio,2017,42623,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72057,Guayama Municipio,2018,41706,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72057,Guayama Municipio,2019,40889,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72057,Guayama Municipio,2020,40198,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72059,Guayanilla Municipio,2011,21767,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72059,Guayanilla Municipio,2012,21493,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72059,Guayanilla Municipio,2013,21218,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72059,Guayanilla Municipio,2014,20862,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72059,Guayanilla Municipio,2015,20442,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72059,Guayanilla Municipio,2016,20025,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72059,Guayanilla Municipio,2017,19578,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72059,Guayanilla Municipio,2018,19008,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72059,Guayanilla Municipio,2019,18514,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72059,Guayanilla Municipio,2020,18080,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72061,Guaynabo Municipio,2011,98326,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72061,Guaynabo Municipio,2012,97639,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72061,Guaynabo Municipio,2013,96670,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72061,Guaynabo Municipio,2014,95428,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72061,Guaynabo Municipio,2015,93899,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72061,Guaynabo Municipio,2016,92444,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72061,Guaynabo Municipio,2017,90773,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72061,Guaynabo Municipio,2018,88663,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72061,Guaynabo Municipio,2019,86937,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72061,Guaynabo Municipio,2020,85312,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72063,Gurabo Municipio,2011,44868,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72063,Gurabo Municipio,2012,45540,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72063,Gurabo Municipio,2013,46084,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72063,Gurabo Municipio,2014,46460,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72063,Gurabo Municipio,2015,46765,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72063,Gurabo Municipio,2016,46990,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72063,Gurabo Municipio,2017,47074,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72063,Gurabo Municipio,2018,46894,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72063,Gurabo Municipio,2019,46910,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72063,Gurabo Municipio,2020,46948,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72065,Hatillo Municipio,2011,41843,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72065,Hatillo Municipio,2012,41945,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72065,Hatillo Municipio,2013,41932,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72065,Hatillo Municipio,2014,41830,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72065,Hatillo Municipio,2015,41578,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72065,Hatillo Municipio,2016,41327,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72065,Hatillo Municipio,2017,40978,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72065,Hatillo Municipio,2018,40390,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72065,Hatillo Municipio,2019,39950,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72065,Hatillo Municipio,2020,39561,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72067,Hormigueros Municipio,2011,17239,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72067,Hormigueros Municipio,2012,17217,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72067,Hormigueros Municipio,2013,17151,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72067,Hormigueros Municipio,2014,17023,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72067,Hormigueros Municipio,2015,16845,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72067,Hormigueros Municipio,2016,16678,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72067,Hormigueros Municipio,2017,16474,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72067,Hormigueros Municipio,2018,16180,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72067,Hormigueros Municipio,2019,15943,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72067,Hormigueros Municipio,2020,15731,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72069,Humacao Municipio,2011,58665,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72069,Humacao Municipio,2012,58333,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72069,Humacao Municipio,2013,57823,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72069,Humacao Municipio,2014,57181,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72069,Humacao Municipio,2015,56384,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72069,Humacao Municipio,2016,55621,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72069,Humacao Municipio,2017,54736,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72069,Humacao Municipio,2018,53466,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72069,Humacao Municipio,2019,52507,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72069,Humacao Municipio,2020,51586,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72071,Isabela Municipio,2011,45668,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72071,Isabela Municipio,2012,45567,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72071,Isabela Municipio,2013,45315,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72071,Isabela Municipio,2014,44965,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72071,Isabela Municipio,2015,44438,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72071,Isabela Municipio,2016,43919,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72071,Isabela Municipio,2017,43314,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72071,Isabela Municipio,2018,42420,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72071,Isabela Municipio,2019,41707,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72071,Isabela Municipio,2020,41084,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72073,Jayuya Municipio,2011,16744,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72073,Jayuya Municipio,2012,16600,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72073,Jayuya Municipio,2013,16413,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72073,Jayuya Municipio,2014,16183,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72073,Jayuya Municipio,2015,15890,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72073,Jayuya Municipio,2016,15605,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72073,Jayuya Municipio,2017,15297,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72073,Jayuya Municipio,2018,14906,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72073,Jayuya Municipio,2019,14539,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72073,Jayuya Municipio,2020,14239,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72075,Juana D¨ªaz Municipio,2011,50894,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72075,Juana D¨ªaz Municipio,2012,50695,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72075,Juana D¨ªaz Municipio,2013,50365,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72075,Juana D¨ªaz Municipio,2014,49876,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72075,Juana D¨ªaz Municipio,2015,49259,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72075,Juana D¨ªaz Municipio,2016,48658,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72075,Juana D¨ªaz Municipio,2017,47952,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72075,Juana D¨ªaz Municipio,2018,46960,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72075,Juana D¨ªaz Municipio,2019,46152,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72075,Juana D¨ªaz Municipio,2020,45414,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72077,Juncos Municipio,2011,40104,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72077,Juncos Municipio,2012,40292,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72077,Juncos Municipio,2013,40346,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72077,Juncos Municipio,2014,40284,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72077,Juncos Municipio,2015,40104,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72077,Juncos Municipio,2016,39942,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72077,Juncos Municipio,2017,39704,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72077,Juncos Municipio,2018,39128,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72077,Juncos Municipio,2019,38780,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72077,Juncos Municipio,2020,38471,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72079,Lajas Municipio,2011,25856,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72079,Lajas Municipio,2012,25671,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72079,Lajas Municipio,2013,25442,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72079,Lajas Municipio,2014,25117,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72079,Lajas Municipio,2015,24722,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72079,Lajas Municipio,2016,24323,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72079,Lajas Municipio,2017,23893,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72079,Lajas Municipio,2018,23315,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72079,Lajas Municipio,2019,22835,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72079,Lajas Municipio,2020,22391,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72081,Lares Municipio,2011,31120,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72081,Lares Municipio,2012,30628,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72081,Lares Municipio,2013,30051,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72081,Lares Municipio,2014,29426,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72081,Lares Municipio,2015,28727,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72081,Lares Municipio,2016,28052,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72081,Lares Municipio,2017,27321,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72081,Lares Municipio,2018,26451,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72081,Lares Municipio,2019,25696,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72081,Lares Municipio,2020,24945,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72083,Las Mar¨ªas Municipio,2011,10012,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72083,Las Mar¨ªas Municipio,2012,9853,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72083,Las Mar¨ªas Municipio,2013,9699,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72083,Las Mar¨ªas Municipio,2014,9521,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72083,Las Mar¨ªas Municipio,2015,9306,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72083,Las Mar¨ªas Municipio,2016,9093,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72083,Las Mar¨ªas Municipio,2017,8874,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72083,Las Mar¨ªas Municipio,2018,8599,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72083,Las Mar¨ªas Municipio,2019,8370,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72083,Las Mar¨ªas Municipio,2020,8131,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72085,Las Piedras Municipio,2011,38466,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72085,Las Piedras Municipio,2012,38687,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72085,Las Piedras Municipio,2013,38777,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72085,Las Piedras Municipio,2014,38759,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72085,Las Piedras Municipio,2015,38605,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72085,Las Piedras Municipio,2016,38466,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72085,Las Piedras Municipio,2017,38253,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72085,Las Piedras Municipio,2018,37768,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72085,Las Piedras Municipio,2019,37499,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72085,Las Piedras Municipio,2020,37233,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72087,Lo¨ªza Municipio,2011,30359,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72087,Lo¨ªza Municipio,2012,29997,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72087,Lo¨ªza Municipio,2013,29549,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72087,Lo¨ªza Municipio,2014,29054,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72087,Lo¨ªza Municipio,2015,28454,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72087,Lo¨ªza Municipio,2016,27857,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72087,Lo¨ªza Municipio,2017,27242,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72087,Lo¨ªza Municipio,2018,26463,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72087,Lo¨ªza Municipio,2019,25778,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72087,Lo¨ªza Municipio,2020,25164,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72089,Luquillo Municipio,2011,20106,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72089,Luquillo Municipio,2012,20050,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72089,Luquillo Municipio,2013,19918,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72089,Luquillo Municipio,2014,19731,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72089,Luquillo Municipio,2015,19497,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72089,Luquillo Municipio,2016,19237,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72089,Luquillo Municipio,2017,18952,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72089,Luquillo Municipio,2018,18547,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72089,Luquillo Municipio,2019,18224,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72089,Luquillo Municipio,2020,17924,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72091,Manat¨ª Municipio,2011,44331,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72091,Manat¨ª Municipio,2012,43974,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72091,Manat¨ª Municipio,2013,43497,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72091,Manat¨ª Municipio,2014,42900,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72091,Manat¨ª Municipio,2015,42167,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72091,Manat¨ª Municipio,2016,41468,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72091,Manat¨ª Municipio,2017,40705,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72091,Manat¨ª Municipio,2018,39692,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72091,Manat¨ª Municipio,2019,38836,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72091,Manat¨ª Municipio,2020,38062,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72093,Maricao Municipio,2011,6300,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72093,Maricao Municipio,2012,6546,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72093,Maricao Municipio,2013,6552,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72093,Maricao Municipio,2014,6384,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72093,Maricao Municipio,2015,6315,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72093,Maricao Municipio,2016,6274,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72093,Maricao Municipio,2017,6180,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72093,Maricao Municipio,2018,6202,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72093,Maricao Municipio,2019,6075,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72093,Maricao Municipio,2020,5900,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72095,Maunabo Municipio,2011,12304,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72095,Maunabo Municipio,2012,12201,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72095,Maunabo Municipio,2013,12070,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72095,Maunabo Municipio,2014,11904,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72095,Maunabo Municipio,2015,11701,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72095,Maunabo Municipio,2016,11506,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72095,Maunabo Municipio,2017,11297,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72095,Maunabo Municipio,2018,11023,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72095,Maunabo Municipio,2019,10776,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72095,Maunabo Municipio,2020,10568,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72097,Mayag¨¹ez Municipio,2011,89981,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72097,Mayag¨¹ez Municipio,2012,88664,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72097,Mayag¨¹ez Municipio,2013,87161,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72097,Mayag¨¹ez Municipio,2014,85425,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72097,Mayag¨¹ez Municipio,2015,83418,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72097,Mayag¨¹ez Municipio,2016,81594,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72097,Mayag¨¹ez Municipio,2017,79615,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72097,Mayag¨¹ez Municipio,2018,77255,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72097,Mayag¨¹ez Municipio,2019,75232,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72097,Mayag¨¹ez Municipio,2020,73336,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72099,Moca Municipio,2011,40199,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72099,Moca Municipio,2012,40044,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72099,Moca Municipio,2013,39755,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72099,Moca Municipio,2014,39349,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72099,Moca Municipio,2015,38815,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72099,Moca Municipio,2016,38289,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72099,Moca Municipio,2017,37676,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72099,Moca Municipio,2018,36872,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72099,Moca Municipio,2019,36161,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72099,Moca Municipio,2020,35547,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72101,Morovis Municipio,2011,32508,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72101,Morovis Municipio,2012,32617,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72101,Morovis Municipio,2013,32609,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72101,Morovis Municipio,2014,32484,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72101,Morovis Municipio,2015,32294,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72101,Morovis Municipio,2016,32087,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72101,Morovis Municipio,2017,31785,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72101,Morovis Municipio,2018,31320,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72101,Morovis Municipio,2019,30962,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72101,Morovis Municipio,2020,30652,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72103,Naguabo Municipio,2011,26576,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72103,Naguabo Municipio,2012,26761,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72103,Naguabo Municipio,2013,26867,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72103,Naguabo Municipio,2014,26881,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72103,Naguabo Municipio,2015,26804,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72103,Naguabo Municipio,2016,26722,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72103,Naguabo Municipio,2017,26584,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72103,Naguabo Municipio,2018,26266,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72103,Naguabo Municipio,2019,26075,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72103,Naguabo Municipio,2020,25931,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72105,Naranjito Municipio,2011,30442,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72105,Naranjito Municipio,2012,30385,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72105,Naranjito Municipio,2013,30256,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72105,Naranjito Municipio,2014,30034,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72105,Naranjito Municipio,2015,29751,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72105,Naranjito Municipio,2016,29467,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72105,Naranjito Municipio,2017,29112,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72105,Naranjito Municipio,2018,28557,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72105,Naranjito Municipio,2019,28112,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72105,Naranjito Municipio,2020,27719,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72107,Orocovis Municipio,2011,23541,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72107,Orocovis Municipio,2012,23386,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72107,Orocovis Municipio,2013,23194,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72107,Orocovis Municipio,2014,22927,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72107,Orocovis Municipio,2015,22595,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72107,Orocovis Municipio,2016,22258,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72107,Orocovis Municipio,2017,21906,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72107,Orocovis Municipio,2018,21407,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72107,Orocovis Municipio,2019,20982,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72107,Orocovis Municipio,2020,20608,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72109,Patillas Municipio,2011,19397,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72109,Patillas Municipio,2012,19225,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72109,Patillas Municipio,2013,19017,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72109,Patillas Municipio,2014,18766,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72109,Patillas Municipio,2015,18441,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72109,Patillas Municipio,2016,18135,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72109,Patillas Municipio,2017,17769,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72109,Patillas Municipio,2018,17334,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72109,Patillas Municipio,2019,16929,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72109,Patillas Municipio,2020,16591,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72111,Pe?uelas Municipio,2011,24553,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72111,Pe?uelas Municipio,2012,24193,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72111,Pe?uelas Municipio,2013,23783,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72111,Pe?uelas Municipio,2014,23307,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72111,Pe?uelas Municipio,2015,22770,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72111,Pe?uelas Municipio,2016,22231,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72111,Pe?uelas Municipio,2017,21661,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72111,Pe?uelas Municipio,2018,20984,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72111,Pe?uelas Municipio,2019,20383,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72111,Pe?uelas Municipio,2020,19797,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72113,Ponce Municipio,2011,168382,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72113,Ponce Municipio,2012,165602,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72113,Ponce Municipio,2013,162793,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72113,Ponce Municipio,2014,159660,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72113,Ponce Municipio,2015,156054,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72113,Ponce Municipio,2016,152594,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72113,Ponce Municipio,2017,148863,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72113,Ponce Municipio,2018,143926,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72113,Ponce Municipio,2019,139671,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72113,Ponce Municipio,2020,135674,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72115,Quebradillas Municipio,2011,25951,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72115,Quebradillas Municipio,2012,25874,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72115,Quebradillas Municipio,2013,25738,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72115,Quebradillas Municipio,2014,25512,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72115,Quebradillas Municipio,2015,25205,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72115,Quebradillas Municipio,2016,24904,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72115,Quebradillas Municipio,2017,24548,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72115,Quebradillas Municipio,2018,24036,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72115,Quebradillas Municipio,2019,23629,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72115,Quebradillas Municipio,2020,23261,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72117,Rinc¨®n Municipio,2011,15201,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72117,Rinc¨®n Municipio,2012,15182,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72117,Rinc¨®n Municipio,2013,15094,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72117,Rinc¨®n Municipio,2014,14998,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72117,Rinc¨®n Municipio,2015,14841,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72117,Rinc¨®n Municipio,2016,14700,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72117,Rinc¨®n Municipio,2017,14526,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72117,Rinc¨®n Municipio,2018,14269,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72117,Rinc¨®n Municipio,2019,14056,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72117,Rinc¨®n Municipio,2020,13849,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72119,R¨ªo Grande Municipio,2011,54286,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72119,R¨ªo Grande Municipio,2012,54203,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72119,R¨ªo Grande Municipio,2013,54035,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72119,R¨ªo Grande Municipio,2014,53628,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72119,R¨ªo Grande Municipio,2015,53029,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72119,R¨ªo Grande Municipio,2016,52479,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72119,R¨ªo Grande Municipio,2017,51768,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72119,R¨ªo Grande Municipio,2018,50550,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72119,R¨ªo Grande Municipio,2019,49613,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72119,R¨ªo Grande Municipio,2020,48828,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72121,Sabana Grande Municipio,2011,25392,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72121,Sabana Grande Municipio,2012,25216,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72121,Sabana Grande Municipio,2013,24974,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72121,Sabana Grande Municipio,2014,24692,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72121,Sabana Grande Municipio,2015,24307,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72121,Sabana Grande Municipio,2016,24013,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72121,Sabana Grande Municipio,2017,23610,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72121,Sabana Grande Municipio,2018,23054,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72121,Sabana Grande Municipio,2019,22560,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72121,Sabana Grande Municipio,2020,22140,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72123,Salinas Municipio,2011,31165,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72123,Salinas Municipio,2012,31019,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72123,Salinas Municipio,2013,30807,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72123,Salinas Municipio,2014,30506,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72123,Salinas Municipio,2015,30114,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72123,Salinas Municipio,2016,29722,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72123,Salinas Municipio,2017,29239,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72123,Salinas Municipio,2018,28633,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72123,Salinas Municipio,2019,28109,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72123,Salinas Municipio,2020,27638,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72125,San Germ¨¢n Municipio,2011,35736,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72125,San Germ¨¢n Municipio,2012,35441,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72125,San Germ¨¢n Municipio,2013,35070,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72125,San Germ¨¢n Municipio,2014,34725,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72125,San Germ¨¢n Municipio,2015,34125,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72125,San Germ¨¢n Municipio,2016,33546,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72125,San Germ¨¢n Municipio,2017,32937,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72125,San Germ¨¢n Municipio,2018,32114,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72125,San Germ¨¢n Municipio,2019,31442,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72125,San Germ¨¢n Municipio,2020,30811,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72127,San Juan Municipio,2011,399474,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72127,San Juan Municipio,2012,393633,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72127,San Juan Municipio,2013,387336,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72127,San Juan Municipio,2014,380149,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72127,San Juan Municipio,2015,371400,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72127,San Juan Municipio,2016,363744,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72127,San Juan Municipio,2017,355181,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72127,San Juan Municipio,2018,344606,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72127,San Juan Municipio,2019,335468,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72127,San Juan Municipio,2020,326953,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72129,San Lorenzo Municipio,2011,41176,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72129,San Lorenzo Municipio,2012,40979,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72129,San Lorenzo Municipio,2013,40701,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72129,San Lorenzo Municipio,2014,40313,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72129,San Lorenzo Municipio,2015,39778,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72129,San Lorenzo Municipio,2016,39283,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72129,San Lorenzo Municipio,2017,38689,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72129,San Lorenzo Municipio,2018,37873,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72129,San Lorenzo Municipio,2019,37209,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72129,San Lorenzo Municipio,2020,36586,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72131,San Sebasti¨¢n Municipio,2011,42667,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72131,San Sebasti¨¢n Municipio,2012,42291,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72131,San Sebasti¨¢n Municipio,2013,41798,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72131,San Sebasti¨¢n Municipio,2014,41204,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72131,San Sebasti¨¢n Municipio,2015,40471,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72131,San Sebasti¨¢n Municipio,2016,39755,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72131,San Sebasti¨¢n Municipio,2017,38970,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72131,San Sebasti¨¢n Municipio,2018,37964,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72131,San Sebasti¨¢n Municipio,2019,37120,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72131,San Sebasti¨¢n Municipio,2020,36292,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72133,Santa Isabel Municipio,2011,23210,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72133,Santa Isabel Municipio,2012,23261,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72133,Santa Isabel Municipio,2013,23231,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72133,Santa Isabel Municipio,2014,23114,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72133,Santa Isabel Municipio,2015,22913,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72133,Santa Isabel Municipio,2016,22732,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72133,Santa Isabel Municipio,2017,22475,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72133,Santa Isabel Municipio,2018,22066,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72133,Santa Isabel Municipio,2019,21757,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72133,Santa Isabel Municipio,2020,21474,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72135,Toa Alta Municipio,2011,73553,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72135,Toa Alta Municipio,2012,74178,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72135,Toa Alta Municipio,2013,74561,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72135,Toa Alta Municipio,2014,74688,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72135,Toa Alta Municipio,2015,74603,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72135,Toa Alta Municipio,2016,74467,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72135,Toa Alta Municipio,2017,74169,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72135,Toa Alta Municipio,2018,73405,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72135,Toa Alta Municipio,2019,72864,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72135,Toa Alta Municipio,2020,72450,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72137,Toa Baja Municipio,2011,90147,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72137,Toa Baja Municipio,2012,89294,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72137,Toa Baja Municipio,2013,88195,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72137,Toa Baja Municipio,2014,86873,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72137,Toa Baja Municipio,2015,85242,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72137,Toa Baja Municipio,2016,83645,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72137,Toa Baja Municipio,2017,81905,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72137,Toa Baja Municipio,2018,79726,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72137,Toa Baja Municipio,2019,77810,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72137,Toa Baja Municipio,2020,76008,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72139,Trujillo Alto Municipio,2011,75122,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72139,Trujillo Alto Municipio,2012,74655,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72139,Trujillo Alto Municipio,2013,73970,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72139,Trujillo Alto Municipio,2014,73030,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72139,Trujillo Alto Municipio,2015,71886,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72139,Trujillo Alto Municipio,2016,70737,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72139,Trujillo Alto Municipio,2017,69478,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72139,Trujillo Alto Municipio,2018,67780,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72139,Trujillo Alto Municipio,2019,66338,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72139,Trujillo Alto Municipio,2020,65011,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72141,Utuado Municipio,2011,33404,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72141,Utuado Municipio,2012,33033,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72141,Utuado Municipio,2013,32593,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72141,Utuado Municipio,2014,32086,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72141,Utuado Municipio,2015,31474,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72141,Utuado Municipio,2016,30869,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72141,Utuado Municipio,2017,30209,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72141,Utuado Municipio,2018,29402,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72141,Utuado Municipio,2019,28676,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72141,Utuado Municipio,2020,28041,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72143,Vega Alta Municipio,2011,39906,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72143,Vega Alta Municipio,2012,39913,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72143,Vega Alta Municipio,2013,39856,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72143,Vega Alta Municipio,2014,39670,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72143,Vega Alta Municipio,2015,39319,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72143,Vega Alta Municipio,2016,39018,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72143,Vega Alta Municipio,2017,38589,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72143,Vega Alta Municipio,2018,37724,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72143,Vega Alta Municipio,2019,37106,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72143,Vega Alta Municipio,2020,36559,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72145,Vega Baja Municipio,2011,59995,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72145,Vega Baja Municipio,2012,59444,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72145,Vega Baja Municipio,2013,58782,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72145,Vega Baja Municipio,2014,57915,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72145,Vega Baja Municipio,2015,56858,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72145,Vega Baja Municipio,2016,55866,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72145,Vega Baja Municipio,2017,54754,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72145,Vega Baja Municipio,2018,53371,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72145,Vega Baja Municipio,2019,52192,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72145,Vega Baja Municipio,2020,51089,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72147,Vieques Municipio,2011,9318,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72147,Vieques Municipio,2012,9293,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72147,Vieques Municipio,2013,9273,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72147,Vieques Municipio,2014,9217,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72147,Vieques Municipio,2015,9130,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72147,Vieques Municipio,2016,9046,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72147,Vieques Municipio,2017,8931,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72147,Vieques Municipio,2018,8771,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72147,Vieques Municipio,2019,8642,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72147,Vieques Municipio,2020,8508,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72149,Villalba Municipio,2011,26290,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72149,Villalba Municipio,2012,25983,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72149,Villalba Municipio,2013,25618,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72149,Villalba Municipio,2014,25196,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72149,Villalba Municipio,2015,24685,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72149,Villalba Municipio,2016,24186,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72149,Villalba Municipio,2017,23659,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72149,Villalba Municipio,2018,22993,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72149,Villalba Municipio,2019,22403,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72149,Villalba Municipio,2020,21899,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72151,Yabucoa Municipio,2011,38138,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72151,Yabucoa Municipio,2012,37823,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72151,Yabucoa Municipio,2013,37404,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72151,Yabucoa Municipio,2014,36903,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72151,Yabucoa Municipio,2015,36279,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72151,Yabucoa Municipio,2016,35670,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72151,Yabucoa Municipio,2017,35025,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72151,Yabucoa Municipio,2018,34149,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72151,Yabucoa Municipio,2019,33499,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72151,Yabucoa Municipio,2020,32867,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72153,Yauco Municipio,2011,42516,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72153,Yauco Municipio,2012,41876,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72153,Yauco Municipio,2013,41194,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72153,Yauco Municipio,2014,40391,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72153,Yauco Municipio,2015,39474,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72153,Yauco Municipio,2016,38519,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72153,Yauco Municipio,2017,37585,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72153,Yauco Municipio,2018,36439,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72153,Yauco Municipio,2019,35428,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72153,Yauco Municipio,2020,34501,https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
+geoId/72001,Adjuntas Municipio,2010,19483,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72003,Aguada Municipio,2010,41959,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72005,Aguadilla Municipio,2010,60949,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72007,Aguas Buenas Municipio,2010,28659,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72009,Aibonito Municipio,2010,25900,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72011,A?asco Municipio,2010,29261,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72013,Arecibo Municipio,2010,96440,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72015,Arroyo Municipio,2010,19575,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72017,Barceloneta Municipio,2010,24816,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72019,Barranquitas Municipio,2010,30318,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72021,Bayam¨®n Municipio,2010,208116,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72023,Cabo Rojo Municipio,2010,50917,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72025,Caguas Municipio,2010,142893,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72027,Camuy Municipio,2010,35159,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72029,Can¨®vanas Municipio,2010,47648,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72031,Carolina Municipio,2010,176762,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72033,Cata?o Municipio,2010,28140,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72035,Cayey Municipio,2010,48119,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72037,Ceiba Municipio,2010,13631,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72039,Ciales Municipio,2010,18782,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72041,Cidra Municipio,2010,43480,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72043,Coamo Municipio,2010,40512,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72045,Comer¨ªo Municipio,2010,20778,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72047,Corozal Municipio,2010,37142,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72049,Culebra Municipio,2010,1818,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72051,Dorado Municipio,2010,38165,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72053,Fajardo Municipio,2010,36993,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72054,Florida Municipio,2010,12680,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72055,Gu¨¢nica Municipio,2010,19427,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72057,Guayama Municipio,2010,45362,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72059,Guayanilla Municipio,2010,21581,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72061,Guaynabo Municipio,2010,97924,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72063,Gurabo Municipio,2010,45369,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72065,Hatillo Municipio,2010,41953,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72067,Hormigueros Municipio,2010,17250,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72069,Humacao Municipio,2010,58466,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72071,Isabela Municipio,2010,45631,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72073,Jayuya Municipio,2010,16642,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72075,Juana D¨ªaz Municipio,2010,50747,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72077,Juncos Municipio,2010,40290,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72079,Lajas Municipio,2010,25753,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72081,Lares Municipio,2010,30753,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72083,Las Mar¨ªas Municipio,2010,9881,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72085,Las Piedras Municipio,2010,38675,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72087,Lo¨ªza Municipio,2010,30060,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72089,Luquillo Municipio,2010,20068,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72091,Manat¨ª Municipio,2010,44113,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72093,Maricao Municipio,2010,6276,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72095,Maunabo Municipio,2010,12225,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72097,Mayag¨¹ez Municipio,2010,89080,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72099,Moca Municipio,2010,40109,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72101,Morovis Municipio,2010,32610,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72103,Naguabo Municipio,2010,26720,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72105,Naranjito Municipio,2010,30402,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72107,Orocovis Municipio,2010,23423,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72109,Patillas Municipio,2010,19277,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72111,Pe?uelas Municipio,2010,24282,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72113,Ponce Municipio,2010,166327,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72115,Quebradillas Municipio,2010,25919,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72117,Rinc¨®n Municipio,2010,15200,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72119,R¨ªo Grande Municipio,2010,54304,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72121,Sabana Grande Municipio,2010,25265,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72123,Salinas Municipio,2010,31078,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72125,San Germ¨¢n Municipio,2010,35527,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72127,San Juan Municipio,2010,395326,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72129,San Lorenzo Municipio,2010,41058,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72131,San Sebasti¨¢n Municipio,2010,42430,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72133,Santa Isabel Municipio,2010,23274,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72135,Toa Alta Municipio,2010,74066,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72137,Toa Baja Municipio,2010,89609,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72139,Trujillo Alto Municipio,2010,74842,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72141,Utuado Municipio,2010,33149,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72143,Vega Alta Municipio,2010,39951,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72145,Vega Baja Municipio,2010,59662,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72147,Vieques Municipio,2010,9301,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72149,Villalba Municipio,2010,26073,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72151,Yabucoa Municipio,2010,37941,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+geoId/72153,Yauco Municipio,2010,42043,https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
