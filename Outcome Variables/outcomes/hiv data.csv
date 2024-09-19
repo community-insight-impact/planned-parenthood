@@ -1,0 +1,817 @@
+YEAR,STATE,AGE,HIV,"HIV Rate per 100,000"
+2008,Alabama,13-24,167,21.3
+2009,Alabama,13-24,194,24.7
+2010,Alabama,13-24,190,23.6
+2011,Alabama,13-24,194,24.1
+2012,Alabama,13-24,195,24.2
+2013,Alabama,13-24,180,22.3
+2014,Alabama,13-24,204,25.4
+2015,Alabama,13-24,200,25.2
+2016,Alabama,13-24,174,22.3
+2017,Alabama,13-24,188,24.4
+2018,Alabama,13-24,185,24.2
+2019,Alabama,13-24,163,21.4
+2020,Alabama,13-24,163,20.8
+2021,Alabama,13-24,150,19.0
+2022,Alabama,13-24,138,Data not available
+2023,Alabama,13-24,Data not available,Data not available
+2008,Alaska,13-24,5,3.7
+2009,Alaska,13-24,3,2.3
+2010,Alaska,13-24,5,3.9
+2011,Alaska,13-24,8,6.3
+2012,Alaska,13-24,5,3.9
+2013,Alaska,13-24,4,3.1
+2014,Alaska,13-24,7,5.4
+2015,Alaska,13-24,5,4.0
+2016,Alaska,13-24,4,3.2
+2017,Alaska,13-24,9,7.5
+2018,Alaska,13-24,5,4.2
+2019,Alaska,13-24,6,5.2
+2020,Alaska,13-24,6,5.2
+2021,Alaska,13-24,5,4.3
+2022,Alaska,13-24,10,Data not available
+2023,Alaska,13-24,Data not available,Data not available
+2008,Arizona,13-24,112,10.6
+2009,Arizona,13-24,97,9.1
+2010,Arizona,13-24,98,9.0
+2011,Arizona,13-24,93,8.5
+2012,Arizona,13-24,121,10.9
+2013,Arizona,13-24,143,12.7
+2014,Arizona,13-24,167,14.7
+2015,Arizona,13-24,144,12.7
+2016,Arizona,13-24,149,13.1
+2017,Arizona,13-24,136,11.9
+2018,Arizona,13-24,154,13.3
+2019,Arizona,13-24,167,14.3
+2020,Arizona,13-24,136,11.8
+2021,Arizona,13-24,124,10.6
+2022,Arizona,13-24,147,Data not available
+2023,Arizona,13-24,Data not available,Data not available
+2008,Arkansas,13-24,44,9.4
+2009,Arkansas,13-24,66,14.1
+2010,Arkansas,13-24,52,10.8
+2011,Arkansas,13-24,68,13.9
+2012,Arkansas,13-24,76,15.6
+2013,Arkansas,13-24,84,17.1
+2014,Arkansas,13-24,103,21.0
+2015,Arkansas,13-24,72,14.8
+2016,Arkansas,13-24,90,18.7
+2017,Arkansas,13-24,85,17.7
+2018,Arkansas,13-24,80,16.7
+2019,Arkansas,13-24,73,15.3
+2020,Arkansas,13-24,64,13.3
+2021,Arkansas,13-24,66,13.6
+2022,Arkansas,13-24,49,Data not available
+2023,Arkansas,13-24,Data not available,Data not available
+2008,California,13-24,910,14.3
+2009,California,13-24,819,12.8
+2010,California,13-24,936,14.1
+2011,California,13-24,880,13.3
+2012,California,13-24,946,14.3
+2013,California,13-24,855,13.0
+2014,California,13-24,989,15.1
+2015,California,13-24,"1,052",16.2
+2016,California,13-24,"1,032",16.2
+2017,California,13-24,974,15.4
+2018,California,13-24,932,14.9
+2019,California,13-24,805,13.0
+2020,California,13-24,670,10.8
+2021,California,13-24,718,11.6
+2022,California,13-24,733,Data not available
+2023,California,13-24,Data not available,Data not available
+2008,Colorado,13-24,55,6.7
+2009,Colorado,13-24,59,7.2
+2010,Colorado,13-24,72,8.8
+2011,Colorado,13-24,60,7.2
+2012,Colorado,13-24,73,8.7
+2013,Colorado,13-24,51,6.0
+2014,Colorado,13-24,63,7.3
+2015,Colorado,13-24,84,9.7
+2016,Colorado,13-24,84,9.6
+2017,Colorado,13-24,84,9.5
+2018,Colorado,13-24,81,9.1
+2019,Colorado,13-24,81,9.1
+2020,Colorado,13-24,54,6.0
+2021,Colorado,13-24,75,8.3
+2022,Colorado,13-24,76,Data not available
+2023,Colorado,13-24,Data not available,Data not available
+2008,Connecticut,13-24,52,9.0
+2009,Connecticut,13-24,57,9.8
+2010,Connecticut,13-24,52,9.0
+2011,Connecticut,13-24,68,11.7
+2012,Connecticut,13-24,49,8.4
+2013,Connecticut,13-24,62,10.5
+2014,Connecticut,13-24,52,8.8
+2015,Connecticut,13-24,53,9.0
+2016,Connecticut,13-24,47,8.0
+2017,Connecticut,13-24,52,9.0
+2018,Connecticut,13-24,47,8.2
+2019,Connecticut,13-24,44,7.8
+2020,Connecticut,13-24,30,5.2
+2021,Connecticut,13-24,40,7.0
+2022,Connecticut,13-24,31,Data not available
+2023,Connecticut,13-24,Data not available,Data not available
+2008,Delaware,13-24,24,17.0
+2009,Delaware,13-24,37,26.2
+2010,Delaware,13-24,26,17.3
+2011,Delaware,13-24,23,15.3
+2012,Delaware,13-24,34,22.6
+2013,Delaware,13-24,24,16.1
+2014,Delaware,13-24,20,13.6
+2015,Delaware,13-24,19,13.1
+2016,Delaware,13-24,17,11.9
+2017,Delaware,13-24,27,19.0
+2018,Delaware,13-24,14,9.9
+2019,Delaware,13-24,19,13.5
+2020,Delaware,13-24,15,10.4
+2021,Delaware,13-24,16,11.0
+2022,Delaware,13-24,21,Data not available
+2023,Delaware,13-24,Data not available,Data not available
+2008,District of Columbia,13-24,148,145.9
+2009,District of Columbia,13-24,113,110.0
+2010,District of Columbia,13-24,150,132.3
+2011,District of Columbia,13-24,124,112.8
+2012,District of Columbia,13-24,128,119.5
+2013,District of Columbia,13-24,91,86.7
+2014,District of Columbia,13-24,80,77.0
+2015,District of Columbia,13-24,72,69.7
+2016,District of Columbia,13-24,62,61.2
+2017,District of Columbia,13-24,64,63.4
+2018,District of Columbia,13-24,59,58.8
+2019,District of Columbia,13-24,45,45.5
+2020,District of Columbia,13-24,38,39.4
+2021,District of Columbia,13-24,27,29.0
+2022,District of Columbia,13-24,31,Data not available
+2023,District of Columbia,13-24,Data not available,Data not available
+2008,Florida,13-24,827,29.4
+2009,Florida,13-24,861,30.7
+2010,Florida,13-24,906,31.1
+2011,Florida,13-24,841,28.7
+2012,Florida,13-24,812,27.6
+2013,Florida,13-24,806,27.2
+2014,Florida,13-24,844,28.5
+2015,Florida,13-24,922,31.2
+2016,Florida,13-24,841,28.6
+2017,Florida,13-24,821,27.9
+2018,Florida,13-24,786,26.7
+2019,Florida,13-24,733,24.9
+2020,Florida,13-24,532,17.9
+2021,Florida,13-24,603,20.1
+2022,Florida,13-24,686,Data not available
+2023,Florida,13-24,Data not available,Data not available
+2008,Georgia,13-24,648,39.2
+2009,Georgia,13-24,635,38.0
+2010,Georgia,13-24,627,37.6
+2011,Georgia,13-24,697,41.5
+2012,Georgia,13-24,658,38.7
+2013,Georgia,13-24,588,34.4
+2014,Georgia,13-24,570,33.2
+2015,Georgia,13-24,670,38.9
+2016,Georgia,13-24,648,37.6
+2017,Georgia,13-24,607,35.1
+2018,Georgia,13-24,620,35.8
+2019,Georgia,13-24,631,36.1
+2020,Georgia,13-24,467,26.3
+2021,Georgia,13-24,574,32.0
+2022,Georgia,13-24,598,Data not available
+2023,Georgia,13-24,Data not available,Data not available
+2008,Hawaii,13-24,11,5.4
+2009,Hawaii,13-24,14,6.9
+2010,Hawaii,13-24,15,7.0
+2011,Hawaii,13-24,5,2.3
+2012,Hawaii,13-24,7,3.3
+2013,Hawaii,13-24,13,6.1
+2014,Hawaii,13-24,13,6.1
+2015,Hawaii,13-24,12,5.7
+2016,Hawaii,13-24,13,6.3
+2017,Hawaii,13-24,11,5.4
+2018,Hawaii,13-24,10,5.0
+2019,Hawaii,13-24,9,4.6
+2020,Hawaii,13-24,1,0.5
+2021,Hawaii,13-24,8,4.0
+2022,Hawaii,13-24,9,Data not available
+2023,Hawaii,13-24,Data not available,Data not available
+2008,Idaho,13-24,13,4.8
+2009,Idaho,13-24,7,2.6
+2010,Idaho,13-24,6,2.2
+2011,Idaho,13-24,6,2.2
+2012,Idaho,13-24,7,2.6
+2013,Idaho,13-24,4,1.5
+2014,Idaho,13-24,2,0.7
+2015,Idaho,13-24,9,3.2
+2016,Idaho,13-24,9,3.2
+2017,Idaho,13-24,8,2.8
+2018,Idaho,13-24,7,2.4
+2019,Idaho,13-24,4,1.4
+2020,Idaho,13-24,6,2.0
+2021,Idaho,13-24,7,2.2
+2022,Idaho,13-24,6,Data not available
+2023,Idaho,13-24,Data not available,Data not available
+2008,Illinois,13-24,393,17.9
+2009,Illinois,13-24,417,19.0
+2010,Illinois,13-24,392,18.2
+2011,Illinois,13-24,396,18.5
+2012,Illinois,13-24,403,18.9
+2013,Illinois,13-24,449,21.1
+2014,Illinois,13-24,429,20.3
+2015,Illinois,13-24,443,21.2
+2016,Illinois,13-24,392,19.1
+2017,Illinois,13-24,357,17.6
+2018,Illinois,13-24,337,16.8
+2019,Illinois,13-24,316,16.0
+2020,Illinois,13-24,251,12.5
+2021,Illinois,13-24,235,11.8
+2022,Illinois,13-24,216,Data not available
+2023,Illinois,13-24,Data not available,Data not available
+2008,Indiana,13-24,89,8.2
+2009,Indiana,13-24,112,10.3
+2010,Indiana,13-24,120,10.8
+2011,Indiana,13-24,125,11.2
+2012,Indiana,13-24,151,13.5
+2013,Indiana,13-24,153,13.6
+2014,Indiana,13-24,129,11.4
+2015,Indiana,13-24,121,10.8
+2016,Indiana,13-24,120,10.7
+2017,Indiana,13-24,122,11.0
+2018,Indiana,13-24,124,11.2
+2019,Indiana,13-24,99,8.9
+2020,Indiana,13-24,81,7.2
+2021,Indiana,13-24,100,8.8
+2022,Indiana,13-24,129,Data not available
+2023,Indiana,13-24,Data not available,Data not available
+2008,Iowa,13-24,15,2.9
+2009,Iowa,13-24,22,4.2
+2010,Iowa,13-24,21,4.1
+2011,Iowa,13-24,27,5.2
+2012,Iowa,13-24,21,4.0
+2013,Iowa,13-24,17,3.2
+2014,Iowa,13-24,17,3.2
+2015,Iowa,13-24,32,6.0
+2016,Iowa,13-24,29,5.5
+2017,Iowa,13-24,35,6.7
+2018,Iowa,13-24,19,3.6
+2019,Iowa,13-24,24,4.6
+2020,Iowa,13-24,26,4.9
+2021,Iowa,13-24,19,3.5
+2022,Iowa,13-24,25,Data not available
+2023,Iowa,13-24,Data not available,Data not available
+2008,Kansas,13-24,25,5.0
+2009,Kansas,13-24,30,6.0
+2010,Kansas,13-24,27,5.5
+2011,Kansas,13-24,33,6.8
+2012,Kansas,13-24,33,6.7
+2013,Kansas,13-24,32,6.4
+2014,Kansas,13-24,31,6.2
+2015,Kansas,13-24,40,8.0
+2016,Kansas,13-24,28,5.6
+2017,Kansas,13-24,45,9.1
+2018,Kansas,13-24,41,8.3
+2019,Kansas,13-24,33,6.7
+2020,Kansas,13-24,28,5.6
+2021,Kansas,13-24,32,6.4
+2022,Kansas,13-24,32,Data not available
+2023,Kansas,13-24,Data not available,Data not available
+2008,Kentucky,13-24,73,10.4
+2009,Kentucky,13-24,67,9.6
+2010,Kentucky,13-24,82,11.7
+2011,Kentucky,13-24,73,10.3
+2012,Kentucky,13-24,96,13.5
+2013,Kentucky,13-24,69,9.6
+2014,Kentucky,13-24,65,9.1
+2015,Kentucky,13-24,83,11.6
+2016,Kentucky,13-24,61,8.6
+2017,Kentucky,13-24,70,9.9
+2018,Kentucky,13-24,80,11.4
+2019,Kentucky,13-24,66,9.4
+2020,Kentucky,13-24,52,7.3
+2021,Kentucky,13-24,60,8.4
+2022,Kentucky,13-24,75,Data not available
+2023,Kentucky,13-24,Data not available,Data not available
+2008,Louisiana,13-24,237,29.9
+2009,Louisiana,13-24,278,35.2
+2010,Louisiana,13-24,291,37.0
+2011,Louisiana,13-24,313,40.0
+2012,Louisiana,13-24,277,35.4
+2013,Louisiana,13-24,305,39.1
+2014,Louisiana,13-24,329,42.5
+2015,Louisiana,13-24,283,37.1
+2016,Louisiana,13-24,284,37.9
+2017,Louisiana,13-24,244,33.2
+2018,Louisiana,13-24,223,30.7
+2019,Louisiana,13-24,186,25.8
+2020,Louisiana,13-24,184,25.3
+2021,Louisiana,13-24,221,30.4
+2022,Louisiana,13-24,195,Data not available
+2023,Louisiana,13-24,Data not available,Data not available
+2008,Maine,13-24,6,2.9
+2009,Maine,13-24,10,5.0
+2010,Maine,13-24,5,2.5
+2011,Maine,13-24,4,2.0
+2012,Maine,13-24,2,1.0
+2013,Maine,13-24,3,1.5
+2014,Maine,13-24,10,5.2
+2015,Maine,13-24,10,5.3
+2016,Maine,13-24,5,2.7
+2017,Maine,13-24,3,1.6
+2018,Maine,13-24,4,2.2
+2019,Maine,13-24,5,2.7
+2020,Maine,13-24,1,0.5
+2021,Maine,13-24,3,1.6
+2022,Maine,13-24,5,Data not available
+2023,Maine,13-24,Data not available,Data not available
+2008,Maryland,13-24,322,34.5
+2009,Maryland,13-24,311,33.3
+2010,Maryland,13-24,324,34.0
+2011,Maryland,13-24,300,31.5
+2012,Maryland,13-24,283,29.8
+2013,Maryland,13-24,255,26.9
+2014,Maryland,13-24,247,26.2
+2015,Maryland,13-24,246,26.4
+2016,Maryland,13-24,225,24.4
+2017,Maryland,13-24,220,24.0
+2018,Maryland,13-24,196,21.6
+2019,Maryland,13-24,176,19.5
+2020,Maryland,13-24,137,14.8
+2021,Maryland,13-24,150,16.2
+2022,Maryland,13-24,136,Data not available
+2023,Maryland,13-24,Data not available,Data not available
+2008,Massachusetts,13-24,82,7.6
+2009,Massachusetts,13-24,82,7.5
+2010,Massachusetts,13-24,78,7.0
+2011,Massachusetts,13-24,93,8.4
+2012,Massachusetts,13-24,98,8.8
+2013,Massachusetts,13-24,97,8.7
+2014,Massachusetts,13-24,97,8.7
+2015,Massachusetts,13-24,88,7.9
+2016,Massachusetts,13-24,89,8.0
+2017,Massachusetts,13-24,95,8.6
+2018,Massachusetts,13-24,77,7.0
+2019,Massachusetts,13-24,71,6.5
+2020,Massachusetts,13-24,46,4.1
+2021,Massachusetts,13-24,42,3.8
+2022,Massachusetts,13-24,49,Data not available
+2023,Massachusetts,13-24,Data not available,Data not available
+2008,Michigan,13-24,211,12.3
+2009,Michigan,13-24,220,12.9
+2010,Michigan,13-24,194,11.5
+2011,Michigan,13-24,244,14.5
+2012,Michigan,13-24,251,14.8
+2013,Michigan,13-24,217,12.8
+2014,Michigan,13-24,238,14.1
+2015,Michigan,13-24,219,13.2
+2016,Michigan,13-24,225,13.7
+2017,Michigan,13-24,193,11.9
+2018,Michigan,13-24,174,10.9
+2019,Michigan,13-24,172,10.9
+2020,Michigan,13-24,120,7.6
+2021,Michigan,13-24,142,9.0
+2022,Michigan,13-24,140,Data not available
+2023,Michigan,13-24,Data not available,Data not available
+2008,Minnesota,13-24,58,6.5
+2009,Minnesota,13-24,95,10.8
+2010,Minnesota,13-24,79,9.1
+2011,Minnesota,13-24,55,6.4
+2012,Minnesota,13-24,59,6.9
+2013,Minnesota,13-24,53,6.1
+2014,Minnesota,13-24,54,6.2
+2015,Minnesota,13-24,66,7.6
+2016,Minnesota,13-24,65,7.5
+2017,Minnesota,13-24,55,6.4
+2018,Minnesota,13-24,38,4.4
+2019,Minnesota,13-24,47,5.4
+2020,Minnesota,13-24,46,5.2
+2021,Minnesota,13-24,59,6.7
+2022,Minnesota,13-24,69,Data not available
+2023,Minnesota,13-24,Data not available,Data not available
+2008,Mississippi,13-24,148,28.0
+2009,Mississippi,13-24,143,27.1
+2010,Mississippi,13-24,125,24.1
+2011,Mississippi,13-24,155,29.9
+2012,Mississippi,13-24,144,27.7
+2013,Mississippi,13-24,154,29.4
+2014,Mississippi,13-24,151,29.1
+2015,Mississippi,13-24,179,35.0
+2016,Mississippi,13-24,132,26.2
+2017,Mississippi,13-24,119,23.9
+2018,Mississippi,13-24,124,25.4
+2019,Mississippi,13-24,124,25.6
+2020,Mississippi,13-24,113,23.2
+2021,Mississippi,13-24,104,21.2
+2022,Mississippi,13-24,120,Data not available
+2023,Mississippi,13-24,Data not available,Data not available
+2008,Missouri,13-24,135,13.5
+2009,Missouri,13-24,145,14.5
+2010,Missouri,13-24,164,16.5
+2011,Missouri,13-24,148,14.9
+2012,Missouri,13-24,153,15.4
+2013,Missouri,13-24,136,13.7
+2014,Missouri,13-24,137,13.8
+2015,Missouri,13-24,134,13.6
+2016,Missouri,13-24,147,15.1
+2017,Missouri,13-24,127,13.2
+2018,Missouri,13-24,119,12.4
+2019,Missouri,13-24,109,11.4
+2020,Missouri,13-24,74,7.7
+2021,Missouri,13-24,109,11.3
+2022,Missouri,13-24,118,Data not available
+2023,Missouri,13-24,Data not available,Data not available
+2008,Montana,13-24,0,0.0
+2009,Montana,13-24,6,3.6
+2010,Montana,13-24,5,3.1
+2011,Montana,13-24,2,1.3
+2012,Montana,13-24,3,1.9
+2013,Montana,13-24,3,1.8
+2014,Montana,13-24,2,1.2
+2015,Montana,13-24,7,4.3
+2016,Montana,13-24,1,0.6
+2017,Montana,13-24,4,2.5
+2018,Montana,13-24,4,2.5
+2019,Montana,13-24,4,2.5
+2020,Montana,13-24,2,1.2
+2021,Montana,13-24,5,2.9
+2022,Montana,13-24,1,Data not available
+2023,Montana,13-24,Data not available,Data not available
+2008,Nebraska,13-24,12,3.7
+2009,Nebraska,13-24,24,7.5
+2010,Nebraska,13-24,29,9.5
+2011,Nebraska,13-24,13,4.2
+2012,Nebraska,13-24,16,5.2
+2013,Nebraska,13-24,18,5.8
+2014,Nebraska,13-24,15,4.8
+2015,Nebraska,13-24,25,7.9
+2016,Nebraska,13-24,10,3.1
+2017,Nebraska,13-24,20,6.2
+2018,Nebraska,13-24,16,5.0
+2019,Nebraska,13-24,14,4.4
+2020,Nebraska,13-24,7,2.1
+2021,Nebraska,13-24,17,5.1
+2022,Nebraska,13-24,10,Data not available
+2023,Nebraska,13-24,Data not available,Data not available
+2008,Nevada,13-24,58,14.2
+2009,Nevada,13-24,63,15.4
+2010,Nevada,13-24,77,17.8
+2011,Nevada,13-24,92,21.4
+2012,Nevada,13-24,81,18.7
+2013,Nevada,13-24,98,22.6
+2014,Nevada,13-24,98,22.5
+2015,Nevada,13-24,80,18.5
+2016,Nevada,13-24,95,21.9
+2017,Nevada,13-24,81,18.6
+2018,Nevada,13-24,96,21.8
+2019,Nevada,13-24,94,21.1
+2020,Nevada,13-24,67,14.8
+2021,Nevada,13-24,75,16.4
+2022,Nevada,13-24,88,Data not available
+2023,Nevada,13-24,Data not available,Data not available
+2008,New Hampshire,13-24,6,2.7
+2009,New Hampshire,13-24,3,1.4
+2010,New Hampshire,13-24,7,3.3
+2011,New Hampshire,13-24,5,2.3
+2012,New Hampshire,13-24,7,3.3
+2013,New Hampshire,13-24,6,2.8
+2014,New Hampshire,13-24,8,3.7
+2015,New Hampshire,13-24,6,2.8
+2016,New Hampshire,13-24,5,2.4
+2017,New Hampshire,13-24,7,3.4
+2018,New Hampshire,13-24,3,1.5
+2019,New Hampshire,13-24,1,0.5
+2020,New Hampshire,13-24,6,2.9
+2021,New Hampshire,13-24,1,0.5
+2022,New Hampshire,13-24,4,Data not available
+2023,New Hampshire,13-24,Data not available,Data not available
+2008,New Jersey,13-24,216,16.1
+2009,New Jersey,13-24,218,16.2
+2010,New Jersey,13-24,235,17.1
+2011,New Jersey,13-24,200,14.5
+2012,New Jersey,13-24,240,17.4
+2013,New Jersey,13-24,204,14.8
+2014,New Jersey,13-24,227,16.5
+2015,New Jersey,13-24,213,15.6
+2016,New Jersey,13-24,202,14.9
+2017,New Jersey,13-24,201,15.0
+2018,New Jersey,13-24,187,14.1
+2019,New Jersey,13-24,185,14.0
+2020,New Jersey,13-24,138,10.0
+2021,New Jersey,13-24,178,12.9
+2022,New Jersey,13-24,152,Data not available
+2023,New Jersey,13-24,Data not available,Data not available
+2008,New Mexico,13-24,26,7.6
+2009,New Mexico,13-24,22,6.5
+2010,New Mexico,13-24,29,8.3
+2011,New Mexico,13-24,23,6.6
+2012,New Mexico,13-24,19,5.4
+2013,New Mexico,13-24,32,9.1
+2014,New Mexico,13-24,26,7.4
+2015,New Mexico,13-24,32,9.2
+2016,New Mexico,13-24,31,9.0
+2017,New Mexico,13-24,39,11.5
+2018,New Mexico,13-24,23,6.8
+2019,New Mexico,13-24,30,8.9
+2020,New Mexico,13-24,25,7.3
+2021,New Mexico,13-24,31,9.1
+2022,New Mexico,13-24,14,Data not available
+2023,New Mexico,13-24,Data not available,Data not available
+2008,New York,13-24,811,25.2
+2009,New York,13-24,743,23.1
+2010,New York,13-24,755,23.1
+2011,New York,13-24,778,24.0
+2012,New York,13-24,719,22.3
+2013,New York,13-24,675,21.2
+2014,New York,13-24,667,21.2
+2015,New York,13-24,576,18.6
+2016,New York,13-24,506,16.7
+2017,New York,13-24,516,17.3
+2018,New York,13-24,439,14.9
+2019,New York,13-24,441,15.3
+2020,New York,13-24,351,11.8
+2021,New York,13-24,413,14.1
+2022,New York,13-24,394,Data not available
+2023,New York,13-24,Data not available,Data not available
+2008,North Carolina,13-24,295,19.2
+2009,North Carolina,13-24,319,20.5
+2010,North Carolina,13-24,338,21.3
+2011,North Carolina,13-24,340,21.4
+2012,North Carolina,13-24,295,18.4
+2013,North Carolina,13-24,319,19.7
+2014,North Carolina,13-24,376,23.1
+2015,North Carolina,13-24,349,21.4
+2016,North Carolina,13-24,386,23.5
+2017,North Carolina,13-24,324,19.7
+2018,North Carolina,13-24,306,18.5
+2019,North Carolina,13-24,376,22.7
+2020,North Carolina,13-24,279,16.8
+2021,North Carolina,13-24,351,20.9
+2022,North Carolina,13-24,306,Data not available
+2023,North Carolina,13-24,Data not available,Data not available
+2008,North Dakota,13-24,0,0.0
+2009,North Dakota,13-24,1,0.8
+2010,North Dakota,13-24,5,4.1
+2011,North Dakota,13-24,5,4.0
+2012,North Dakota,13-24,1,0.8
+2013,North Dakota,13-24,3,2.3
+2014,North Dakota,13-24,6,4.5
+2015,North Dakota,13-24,5,3.7
+2016,North Dakota,13-24,6,4.5
+2017,North Dakota,13-24,7,5.4
+2018,North Dakota,13-24,4,3.1
+2019,North Dakota,13-24,5,3.9
+2020,North Dakota,13-24,5,3.7
+2021,North Dakota,13-24,7,5.2
+2022,North Dakota,13-24,2,Data not available
+2023,North Dakota,13-24,Data not available,Data not available
+2008,Ohio,13-24,230,12.2
+2009,Ohio,13-24,268,14.3
+2010,Ohio,13-24,267,14.1
+2011,Ohio,13-24,281,14.8
+2012,Ohio,13-24,277,14.6
+2013,Ohio,13-24,297,15.7
+2014,Ohio,13-24,268,14.2
+2015,Ohio,13-24,263,14.1
+2016,Ohio,13-24,252,13.7
+2017,Ohio,13-24,242,13.2
+2018,Ohio,13-24,226,12.5
+2019,Ohio,13-24,228,12.6
+2020,Ohio,13-24,204,11.2
+2021,Ohio,13-24,209,11.5
+2022,Ohio,13-24,171,Data not available
+2023,Ohio,13-24,Data not available,Data not available
+2008,Oklahoma,13-24,64,10.1
+2009,Oklahoma,13-24,71,11.2
+2010,Oklahoma,13-24,67,10.6
+2011,Oklahoma,13-24,81,12.7
+2012,Oklahoma,13-24,70,10.9
+2013,Oklahoma,13-24,79,12.1
+2014,Oklahoma,13-24,66,10.1
+2015,Oklahoma,13-24,66,10.1
+2016,Oklahoma,13-24,59,9.1
+2017,Oklahoma,13-24,55,8.5
+2018,Oklahoma,13-24,59,9.2
+2019,Oklahoma,13-24,83,12.8
+2020,Oklahoma,13-24,78,11.9
+2021,Oklahoma,13-24,86,12.9
+2022,Oklahoma,13-24,68,Data not available
+2023,Oklahoma,13-24,Data not available,Data not available
+2008,Oregon,13-24,35,5.8
+2009,Oregon,13-24,29,4.8
+2010,Oregon,13-24,48,7.9
+2011,Oregon,13-24,39,6.4
+2012,Oregon,13-24,34,5.6
+2013,Oregon,13-24,32,5.3
+2014,Oregon,13-24,28,4.6
+2015,Oregon,13-24,28,4.6
+2016,Oregon,13-24,35,5.7
+2017,Oregon,13-24,34,5.6
+2018,Oregon,13-24,34,5.6
+2019,Oregon,13-24,21,3.4
+2020,Oregon,13-24,30,4.9
+2021,Oregon,13-24,26,4.2
+2022,Oregon,13-24,32,Data not available
+2023,Oregon,13-24,Data not available,Data not available
+2008,Pennsylvania,13-24,307,14.9
+2009,Pennsylvania,13-24,340,16.6
+2010,Pennsylvania,13-24,311,14.8
+2011,Pennsylvania,13-24,299,14.3
+2012,Pennsylvania,13-24,320,15.4
+2013,Pennsylvania,13-24,281,13.6
+2014,Pennsylvania,13-24,258,12.7
+2015,Pennsylvania,13-24,266,13.3
+2016,Pennsylvania,13-24,258,13.1
+2017,Pennsylvania,13-24,254,13.0
+2018,Pennsylvania,13-24,227,11.8
+2019,Pennsylvania,13-24,216,11.4
+2020,Pennsylvania,13-24,159,8.2
+2021,Pennsylvania,13-24,181,9.4
+2022,Pennsylvania,13-24,158,Data not available
+2023,Pennsylvania,13-24,Data not available,Data not available
+2008,Rhode Island,13-24,14,7.7
+2009,Rhode Island,13-24,23,12.8
+2010,Rhode Island,13-24,16,8.5
+2011,Rhode Island,13-24,11,5.9
+2012,Rhode Island,13-24,5,2.7
+2013,Rhode Island,13-24,15,8.2
+2014,Rhode Island,13-24,14,7.7
+2015,Rhode Island,13-24,7,3.9
+2016,Rhode Island,13-24,11,6.2
+2017,Rhode Island,13-24,12,6.9
+2018,Rhode Island,13-24,15,8.7
+2019,Rhode Island,13-24,15,8.8
+2020,Rhode Island,13-24,11,6.3
+2021,Rhode Island,13-24,16,9.2
+2022,Rhode Island,13-24,8,Data not available
+2023,Rhode Island,13-24,Data not available,Data not available
+2008,South Carolina,13-24,161,21.5
+2009,South Carolina,13-24,178,23.6
+2010,South Carolina,13-24,227,29.2
+2011,South Carolina,13-24,217,27.8
+2012,South Carolina,13-24,202,25.8
+2013,South Carolina,13-24,190,24.1
+2014,South Carolina,13-24,241,30.6
+2015,South Carolina,13-24,179,22.8
+2016,South Carolina,13-24,191,24.4
+2017,South Carolina,13-24,166,21.3
+2018,South Carolina,13-24,161,20.6
+2019,South Carolina,13-24,194,24.7
+2020,South Carolina,13-24,149,19.0
+2021,South Carolina,13-24,165,20.6
+2022,South Carolina,13-24,171,Data not available
+2023,South Carolina,13-24,Data not available,Data not available
+2008,South Dakota,13-24,1,0.7
+2009,South Dakota,13-24,0,0.0
+2010,South Dakota,13-24,4,2.9
+2011,South Dakota,13-24,1,0.7
+2012,South Dakota,13-24,1,0.7
+2013,South Dakota,13-24,3,2.2
+2014,South Dakota,13-24,2,1.4
+2015,South Dakota,13-24,5,3.6
+2016,South Dakota,13-24,6,4.3
+2017,South Dakota,13-24,6,4.3
+2018,South Dakota,13-24,3,2.1
+2019,South Dakota,13-24,5,3.5
+2020,South Dakota,13-24,6,4.2
+2021,South Dakota,13-24,4,2.7
+2022,South Dakota,13-24,7,Data not available
+2023,South Dakota,13-24,Data not available,Data not available
+2008,Tennessee,13-24,222,22.3
+2009,Tennessee,13-24,198,19.8
+2010,Tennessee,13-24,205,19.9
+2011,Tennessee,13-24,220,21.2
+2012,Tennessee,13-24,238,22.7
+2013,Tennessee,13-24,200,19.0
+2014,Tennessee,13-24,211,20.0
+2015,Tennessee,13-24,201,19.2
+2016,Tennessee,13-24,190,18.2
+2017,Tennessee,13-24,191,18.3
+2018,Tennessee,13-24,170,16.3
+2019,Tennessee,13-24,166,15.9
+2020,Tennessee,13-24,160,15.1
+2021,Tennessee,13-24,215,20.0
+2022,Tennessee,13-24,212,Data not available
+2023,Tennessee,13-24,Data not available,Data not available
+2008,Texas,13-24,861,20.2
+2009,Texas,13-24,979,22.8
+2010,Texas,13-24,"1,050",23.6
+2011,Texas,13-24,"1,031",22.9
+2012,Texas,13-24,"1,054",23.0
+2013,Texas,13-24,"1,032",22.2
+2014,Texas,13-24,"1,142",24.2
+2015,Texas,13-24,"1,118",23.4
+2016,Texas,13-24,"1,056",22.0
+2017,Texas,13-24,995,20.6
+2018,Texas,13-24,"1,007",20.7
+2019,Texas,13-24,"1,032",21.1
+2020,Texas,13-24,835,16.8
+2021,Texas,13-24,940,18.6
+2022,Texas,13-24,994,Data not available
+2023,Texas,13-24,Data not available,Data not available
+2008,Utah,13-24,17,3.1
+2009,Utah,13-24,16,2.9
+2010,Utah,13-24,17,3.2
+2011,Utah,13-24,23,4.2
+2012,Utah,13-24,16,2.9
+2013,Utah,13-24,18,3.2
+2014,Utah,13-24,20,3.5
+2015,Utah,13-24,15,2.6
+2016,Utah,13-24,32,5.4
+2017,Utah,13-24,26,4.3
+2018,Utah,13-24,27,4.4
+2019,Utah,13-24,39,6.2
+2020,Utah,13-24,24,3.7
+2021,Utah,13-24,26,3.9
+2022,Utah,13-24,30,Data not available
+2023,Utah,13-24,Data not available,Data not available
+2008,Vermont,13-24,0,0.0
+2009,Vermont,13-24,6,5.5
+2010,Vermont,13-24,5,4.8
+2011,Vermont,13-24,2,1.9
+2012,Vermont,13-24,3,2.9
+2013,Vermont,13-24,1,1.0
+2014,Vermont,13-24,6,5.7
+2015,Vermont,13-24,0,0.0
+2016,Vermont,13-24,0,0.0
+2017,Vermont,13-24,3,2.9
+2018,Vermont,13-24,3,3.0
+2019,Vermont,13-24,2,2.0
+2020,Vermont,13-24,0,0.0
+2021,Vermont,13-24,2,1.9
+2022,Vermont,13-24,0,Data not available
+2023,Vermont,13-24,Data not available,Data not available
+2008,Virginia,13-24,233,17.6
+2009,Virginia,13-24,233,17.6
+2010,Virginia,13-24,245,18.5
+2011,Virginia,13-24,214,16.1
+2012,Virginia,13-24,235,17.6
+2013,Virginia,13-24,248,18.5
+2014,Virginia,13-24,240,17.9
+2015,Virginia,13-24,261,19.5
+2016,Virginia,13-24,217,16.2
+2017,Virginia,13-24,212,15.9
+2018,Virginia,13-24,196,14.7
+2019,Virginia,13-24,166,12.5
+2020,Virginia,13-24,144,10.7
+2021,Virginia,13-24,172,12.7
+2022,Virginia,13-24,151,Data not available
+2023,Virginia,13-24,Data not available,Data not available
+2008,Washington,13-24,80,7.4
+2009,Washington,13-24,81,7.5
+2010,Washington,13-24,72,6.6
+2011,Washington,13-24,67,6.1
+2012,Washington,13-24,77,6.9
+2013,Washington,13-24,73,6.6
+2014,Washington,13-24,69,6.2
+2015,Washington,13-24,76,6.9
+2016,Washington,13-24,68,6.1
+2017,Washington,13-24,63,5.7
+2018,Washington,13-24,62,5.6
+2019,Washington,13-24,62,5.6
+2020,Washington,13-24,58,5.1
+2021,Washington,13-24,54,4.8
+2022,Washington,13-24,68,Data not available
+2023,Washington,13-24,Data not available,Data not available
+2008,West Virginia,13-24,13,4.6
+2009,West Virginia,13-24,10,3.6
+2010,West Virginia,13-24,12,4.3
+2011,West Virginia,13-24,18,6.4
+2012,West Virginia,13-24,18,6.4
+2013,West Virginia,13-24,10,3.5
+2014,West Virginia,13-24,21,7.5
+2015,West Virginia,13-24,18,6.5
+2016,West Virginia,13-24,10,3.7
+2017,West Virginia,13-24,22,8.3
+2018,West Virginia,13-24,15,5.7
+2019,West Virginia,13-24,24,9.3
+2020,West Virginia,13-24,4,1.5
+2021,West Virginia,13-24,11,4.2
+2022,West Virginia,13-24,10,Data not available
+2023,West Virginia,13-24,Data not available,Data not available
+2008,Wisconsin,13-24,59,6.1
+2009,Wisconsin,13-24,67,6.9
+2010,Wisconsin,13-24,66,7.1
+2011,Wisconsin,13-24,61,6.5
+2012,Wisconsin,13-24,54,5.8
+2013,Wisconsin,13-24,53,5.6
+2014,Wisconsin,13-24,64,6.8
+2015,Wisconsin,13-24,57,6.1
+2016,Wisconsin,13-24,69,7.4
+2017,Wisconsin,13-24,66,7.1
+2018,Wisconsin,13-24,46,5.0
+2019,Wisconsin,13-24,48,5.2
+2020,Wisconsin,13-24,42,4.5
+2021,Wisconsin,13-24,52,5.5
+2022,Wisconsin,13-24,71,Data not available
+2023,Wisconsin,13-24,Data not available,Data not available
+2008,Wyoming,13-24,3,3.2
+2009,Wyoming,13-24,4,4.2
+2010,Wyoming,13-24,1,1.1
+2011,Wyoming,13-24,2,2.2
+2012,Wyoming,13-24,1,1.1
+2013,Wyoming,13-24,4,4.2
+2014,Wyoming,13-24,0,0.0
+2015,Wyoming,13-24,5,5.4
+2016,Wyoming,13-24,2,2.2
+2017,Wyoming,13-24,0,0.0
+2018,Wyoming,13-24,0,0.0
+2019,Wyoming,13-24,1,1.1
+2020,Wyoming,13-24,0,0.0
+2021,Wyoming,13-24,1,1.1
+2022,Wyoming,13-24,0,Data not available
+2023,Wyoming,13-24,Data not available,Data not available
